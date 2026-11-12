@@ -1,0 +1,3579 @@
+{
+  "updated_at": "2026-11-13",
+  "rom_url_base": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/roms/",
+  "games": [
+    {
+      "name": "2020 超级棒球 (set 1)",
+      "genre": "体育",
+      "publisher": "SNK / Pallas",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "2020bb.zip",
+      "file_size": 2951526,
+      "sha256": "ab3ef02c7b3c2923a3a1a07023cc2f56f30b49cf4d3e93ebf8bab1310811512c",
+      "rom_name": "2020bb",
+      "file_name": "2020bb.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/2020bb.zip",
+      "name_en": "2020 Super Baseball (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/2020%20Super%20Baseball%20(Neo%20CD%20conversion).png"
+    },
+    {
+      "name": "三回合较量 / 火线摔角 (NGM-043)(NGH-043)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "3countb.zip",
+      "file_size": 7684690,
+      "sha256": "844404a3c4e7d7df6229ebbc3dc3a9540dfd7b94ed98e0b0cbafac250184ee0c",
+      "rom_name": "3countb",
+      "file_name": "3countb.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/3countb.zip",
+      "name_en": "3 Count Bout / Fire Suplex (NGM-043)(NGH-043)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/3%20Count%20Bout%20_%20Fire%20Suplex%20(NGM-043)(NGH-043).png"
+    },
+    {
+      "name": "阿尔法任务 II - 最后的守护神 (NGM-007)(NGH-007)",
+      "genre": "纵版射击",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "alpham2.zip",
+      "file_size": 3233751,
+      "sha256": "29797c2ccb6e2ae6d827205e7ba346a39a52e6905f5b0d7f2bbb81e11c030e79",
+      "rom_name": "alpham2",
+      "file_name": "alpham2.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/alpham2.zip",
+      "name_en": "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Alpha%20Mission%20II%20_%20ASO%20II%20-%20Last%20Guardian%20(NGM-007)(NGH-007).png"
+    },
+    {
+      "name": "勇者之击 (NGM-049)(NGH-049)",
+      "genre": "横版射击",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "androdun.zip",
+      "file_size": 1809423,
+      "sha256": "3af89a23ac14dd0fa047c69bc3d45490484d58889cab8846e2b24750431c8af7",
+      "rom_name": "androdun",
+      "file_name": "androdun.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/androdun.zip",
+      "name_en": "Andro Dunos (NGM-049)(NGH-049)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Andro%20Dunos%20(NGM-049)(NGH-049).png"
+    },
+    {
+      "name": "痛快 GANGAN 进行曲 (ADM-008)(ADH-008)",
+      "genre": "格斗",
+      "publisher": "ADK / SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "aodk.zip",
+      "file_size": 10138153,
+      "sha256": "b7c1d2497cd9919f50a8c875d7271618d98ba542bb12c7be33ef5caf0327de89",
+      "rom_name": "aodk",
+      "file_name": "aodk.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aodk.zip",
+      "name_en": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aggressors%20of%20Dark%20Kombat%20_%20Tsuukai%20GANGAN%20Koushinkyoku%20(ADM-008)(ADH-008).png"
+    },
+    {
+      "name": "龙虎之拳 (NGM-044)(NGH-044)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "aof.zip",
+      "file_size": 6650377,
+      "sha256": "bc799eab954308e1b6ec3dd0990c550831fd72b765f48b0b5ad2ed103fc3b7e0",
+      "rom_name": "aof",
+      "file_name": "aof.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof.zip",
+      "name_en": "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%20_%20Ryuuko%20no%20Ken%20(NGM-044)(NGH-044).png"
+    },
+    {
+      "name": "龙虎之拳 2 (NGM-056)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "aof2.zip",
+      "file_size": 12403659,
+      "sha256": "2ceb51d9efe993603db0d16715201ad3f116e3b8b534d6d43388e9ce2d432311",
+      "rom_name": "aof2",
+      "file_name": "aof2.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof2.zip",
+      "name_en": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%202%20_%20Ryuuko%20no%20Ken%202%20(Enable%20hidden%20characters%20V2).png"
+    },
+    {
+      "name": "龙虎之拳 3 - 斗士之路",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "aof3.zip",
+      "file_size": 17243567,
+      "sha256": "6caa3803f4412fd4d295859473279ec924861b75bf4a31d0922823e66c819c28",
+      "rom_name": "aof3",
+      "file_name": "aof3.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof3.zip",
+      "name_en": "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%203%20-%20The%20Path%20of%20the%20Warrior%20_%20Art%20of%20Fighting%20-%20Ryuuko%20no%20Ken%20Gaiden%20(Enable%20Hidden%20Characters%20V2).png"
+    },
+    {
+      "name": "傻瓜殿下 麻将漫游记 (MOM-002)(MOH-002)",
+      "genre": "街机",
+      "publisher": "Monolith Corp.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "bakatono.zip",
+      "file_size": 2529221,
+      "sha256": "1a3985db81f376ec7c4d93dc427de4196f933039b9742375ad4fad084750f507",
+      "rom_name": "bakatono",
+      "file_name": "bakatono.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bakatono.zip",
+      "name_en": "Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Bakatonosama%20Mahjong%20Manyuuki%20(MOM-002)(MOH-002).png"
+    },
+    {
+      "name": "碰碰球",
+      "genre": "街机",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "bangbead.zip",
+      "file_size": 20563294,
+      "sha256": "c8b73e21ef930fbed5c2c3a3974afcde26bf076e67ee73a62323fa198f36b76a",
+      "rom_name": "bangbead",
+      "file_name": "bangbead.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bangbead.zip",
+      "name_en": "Bang Bead",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Bang%20Bead%20(Prototype_).png"
+    },
+    {
+      "name": "蓝色之旅 / 拉吉少年 (ALM-001)(ALH-001)",
+      "genre": "平台动作",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "bjourney.zip",
+      "file_size": 2945625,
+      "sha256": "9b22c0bb8fa93c1b99daad9c2ff52c7e38130855c9a860127fa1fac4312f9171",
+      "rom_name": "bjourney",
+      "file_name": "bjourney.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bjourney.zip",
+      "name_en": "Blue's Journey / Raguy (ALM-001)(ALH-001)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Blue's%20Journey%20_%20Raguy%20(ALH-001).png"
+    },
+    {
+      "name": "闪亮之星",
+      "genre": "横版射击",
+      "publisher": "Yumekobo",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "blazstar.zip",
+      "file_size": 21787831,
+      "sha256": "51a01c7ba949dd882bd6c6988e5620d943c5143b0b13d00eb45fdce9624e7fd3",
+      "rom_name": "blazstar",
+      "file_name": "blazstar.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/blazstar.zip",
+      "name_en": "Blazing Star",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Blazing%20Star.png"
+    },
+    {
+      "name": "爆烈人 - 末日英雄",
+      "genre": "格斗",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "breakers.zip",
+      "file_size": 13947102,
+      "sha256": "e14757902010ac3bfb0b10e5b44f42f45a889c1d29cbaed8746abc3ea7a348c4",
+      "rom_name": "breakers",
+      "file_name": "breakers.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/breakers.zip",
+      "name_en": "Breakers",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Breakers.png"
+    },
+    {
+      "name": "爆烈人 复仇 - 末日英雄 加强版",
+      "genre": "格斗",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "breakrev.zip",
+      "file_size": 15944726,
+      "sha256": "8df074a2360cc1fa650d0bd45cb598a01f5f5a3c75a0b0674d8aae53be997afd",
+      "rom_name": "breakrev",
+      "file_name": "breakrev.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/breakrev.zip",
+      "name_en": "Breakers Revenge",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Breakers%20Revenge.png"
+    },
+    {
+      "name": "棒球之星专业版 (NGM-002)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "bstars.zip",
+      "file_size": 3347098,
+      "sha256": "45fd005a2c6ff8b801a77bf492b11856b61826495dd02065486c452ab83f6566",
+      "rom_name": "bstars",
+      "file_name": "bstars.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bstars.zip",
+      "name_en": "Baseball Stars Professional (NGM-002)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Baseball%20Stars%20Professional%20(NGH-002).png"
+    },
+    {
+      "name": "热血快打 (NGM-018)(NGH-018)",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "burningf.zip",
+      "file_size": 3406494,
+      "sha256": "f0eec2578968e7dfff9bad9193de4c9615a5660cf92276a8ae6cec96b5a67ae1",
+      "rom_name": "burningf",
+      "file_name": "burningf.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/burningf.zip",
+      "name_en": "Burning Fight (NGM-018)(NGH-018)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Burning%20Fight%20(NGH-018)(US).png"
+    },
+    {
+      "name": "Codename - Blut Engel (2006-01-19)",
+      "genre": "纵版射击",
+      "publisher": "blastar@gmx.net",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "cnbe.zip",
+      "file_size": 161348,
+      "sha256": "cca409fdf2cb4baa89d00c7326b2122134cbd60b6ba6d5cd0300e8310b96c10e",
+      "rom_name": "cnbe",
+      "file_name": "cnbe.zip",
+      "system": "NEOGEO",
+      "year": "2006",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/cnbe.zip",
+      "name_en": "Codename - Blut Engel (2006-01-19)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Codename%20-%20Blut%20Engel%20(2006-01-19).png"
+    },
+    {
+      "name": "Columns (Neo Geo)",
+      "genre": "益智",
+      "publisher": "homebrew",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "columnsn.zip",
+      "file_size": 58811,
+      "sha256": "c7f8ce23be11decfb1cf75c6a91f3fc25b57433aa183c444acdfbcb485788053",
+      "rom_name": "columnsn",
+      "file_name": "columnsn.zip",
+      "system": "NEOGEO",
+      "year": "????",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/columnsn.zip",
+      "name_en": "Columns (Neo Geo)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Columns%20(World).png"
+    },
+    {
+      "name": "圣十字剑 (ALM-002)(ALH-002)",
+      "genre": "其他",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "crsword.zip",
+      "file_size": 2747452,
+      "sha256": "188068d6199655b0bd1eb5f44e60feacf25a01c9cd8ce26c43697807d1243c56",
+      "rom_name": "crsword",
+      "file_name": "crsword.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/crsword.zip",
+      "name_en": "Crossed Swords (ALM-002)(ALH-002)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Crossed%20Swords%20(ALM-002)(ALH-002).png"
+    },
+    {
+      "name": "蕃茄超人",
+      "genre": "纵版射击",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ctomaday.zip",
+      "file_size": 5830578,
+      "sha256": "5c394b5416ee4b50b62e0de62a0980196ef0bcafc45a3866cc4031de5881bf55",
+      "rom_name": "ctomaday",
+      "file_name": "ctomaday.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ctomaday.zip",
+      "name_en": "Captain Tomaday",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Captain%20Tomaday.png"
+    },
+    {
+      "name": "战斗边缘 (NGM-010)",
+      "genre": "平台动作",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "cyberlip.zip",
+      "file_size": 3331637,
+      "sha256": "8737a46e14055869c0a382bb9d96f921f395f6efac9d09fe4d917bd1ad521514",
+      "rom_name": "cyberlip",
+      "file_name": "cyberlip.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/cyberlip.zip",
+      "name_en": "Cyber-Lip (NGM-010)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cyber-Lip%20(NGM-010).png"
+    },
+    {
+      "name": "钻地先生",
+      "genre": "迷宫",
+      "publisher": "Kyle Hodgetts",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "diggerma.zip",
+      "file_size": 373088,
+      "sha256": "61ef7363ef4d50605f22ef237a6213e41f12fd4c46c1d939ab102b67c6a3f2d4",
+      "rom_name": "diggerma",
+      "file_name": "diggerma.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/diggerma.zip",
+      "name_en": "Digger Man",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Digger%20Man%20(prototype).png"
+    },
+    {
+      "name": "双截龙格斗 (Neo-Geo)",
+      "genre": "格斗",
+      "publisher": "Technos",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "doubledr.zip",
+      "file_size": 9645467,
+      "sha256": "ee0d93190be9704b0cae563c7bcc95142f4ef22e1109ec6da21630d2c7d99f30",
+      "rom_name": "doubledr",
+      "file_name": "doubledr.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/doubledr.zip",
+      "name_en": "Double Dragon (Neo-Geo)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Double%20Dragon%20(World%20set%201).png"
+    },
+    {
+      "name": "超人8号 (NGM-025)(NGH-025)",
+      "genre": "动作过关",
+      "publisher": "SNK / Pallas",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "eightman.zip",
+      "file_size": 2951154,
+      "sha256": "187b20e0f096914368c3ec93a783b65ba1671f90a5d0568befd354c415a97d65",
+      "rom_name": "eightman",
+      "file_name": "eightman.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/eightman.zip",
+      "name_en": "Eight Man (NGM-025)(NGH-025)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Eight%20Man%20(NGM-025)(NGH-025).png"
+    },
+    {
+      "name": "饿狼传说特别版 (set 1)(NGM-058)(NGH-058)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fatfursp.zip",
+      "file_size": 11366331,
+      "sha256": "0076c1a9615fba29b7e2040c27406398615c1392fe6a53c48514ca368bb2e565",
+      "rom_name": "fatfursp",
+      "file_name": "fatfursp.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfursp.zip",
+      "name_en": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%20Special%20_%20Garou%20Densetsu%20Special%20(NGM-058%20~%20NGH-058%2C%20set%201).png"
+    },
+    {
+      "name": "饿狼传说 - 宿命之战 (NGM-033)(NGH-033)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fatfury1.zip",
+      "file_size": 4077906,
+      "sha256": "fe315769b7301c054c04120f11364a60bbe2aea917f85ba8f14600cd7dc3c2a1",
+      "rom_name": "fatfury1",
+      "file_name": "fatfury1.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury1.zip",
+      "name_en": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%20-%20King%20of%20Fighters%20_%20Garou%20Densetsu%20-%20Shukumei%20no%20Tatakai%20(NGM-033%20~%20NGH-033).png"
+    },
+    {
+      "name": "饿狼传说 2 - 新的战斗 (NGM-047)(NGH-047)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fatfury2.zip",
+      "file_size": 8029581,
+      "sha256": "da4e6dbbba2e21f144385a07405953cba10eac9382bcdbbf6d1d037ded0acaed",
+      "rom_name": "fatfury2",
+      "file_name": "fatfury2.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury2.zip",
+      "name_en": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%202%20_%20Garou%20Densetsu%202%20-%20Arata-naru%20Tatakai%20(NGM-047%20~%20NGH-047).png"
+    },
+    {
+      "name": "饿狼传说 3 - 通向最终胜利之路 (NGM-069)(NGH-069)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fatfury3.zip",
+      "file_size": 19678020,
+      "sha256": "87560f3b9e7705df79d20f8c8766dccfbd8458a3e476d464a919100c2aff7642",
+      "rom_name": "fatfury3",
+      "file_name": "fatfury3.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury3.zip",
+      "name_en": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%203%20-%20Road%20to%20the%20Final%20Victory%20_%20Garou%20Densetsu%203%20-%20Haruka-naru%20Tatakai%20(NGM-069%20~%20NGH-069).png"
+    },
+    {
+      "name": "疯狂橄榄球 (NGM-034)(NGH-034)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fbfrenzy.zip",
+      "file_size": 3111250,
+      "sha256": "132965c782f1d2e7f7aee23143786915ae80adda08d17a0377dca00264df7741",
+      "rom_name": "fbfrenzy",
+      "file_name": "fbfrenzy.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fbfrenzy.zip",
+      "name_en": "Football Frenzy (NGM-034)(NGH-034)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Football%20Frenzy%20(NGM-034)(NGH-034).png"
+    },
+    {
+      "name": "狂热格斗 (set 1)",
+      "genre": "动作过关",
+      "publisher": "Viccom",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fightfev.zip",
+      "file_size": 6085063,
+      "sha256": "51cd9b6e0221340f0c920aac9c39053e1a1554d87e0f8f97e00edf05b5c38dfd",
+      "rom_name": "fightfev",
+      "file_name": "fightfev.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fightfev.zip",
+      "name_en": "Fight Fever (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fight%20Fever%20(set%201).png"
+    },
+    {
+      "name": "盾牌大战",
+      "genre": "街机",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "flipshot.zip",
+      "file_size": 2323300,
+      "sha256": "9e4dbab86e1b7a3f67cbef88bebf38c29b87bd7cd3a8763ae32fed830b4c5cfb",
+      "rom_name": "flipshot",
+      "file_name": "flipshot.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/flipshot.zip",
+      "name_en": "Battle Flip Shot",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Battle%20Flip%20Shot.png"
+    },
+    {
+      "name": "Idol Mahjong - final romance 2 (CD to MVS Conversion)",
+      "genre": "街机",
+      "publisher": "hack",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "fr2ch.zip",
+      "file_size": 3375331,
+      "sha256": "6a2e5a3e1f327a1b111df1a8b6302e4220cfff0b538c1bbcbc586da4d3e8f68e",
+      "rom_name": "fr2ch",
+      "file_name": "fr2ch.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fr2ch.zip",
+      "name_en": "Idol Mahjong - final romance 2 (CD to MVS Conversion)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Idol%20Mahjong%20-%20final%20romance%202%20(Neo%20CD%20Conversion).png"
+    },
+    {
+      "name": "银河快打 - 宇宙战士",
+      "genre": "格斗",
+      "publisher": "Sunsoft",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "galaxyfg.zip",
+      "file_size": 10759707,
+      "sha256": "96f3ca84470ca95a3e39fde833ac25f24357f042a52ef8c3f3c08934cd7f45d8",
+      "rom_name": "galaxyfg",
+      "file_name": "galaxyfg.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/galaxyfg.zip",
+      "name_en": "Galaxy Fight - Universal Warriors",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Galaxy%20Fight%20-%20Universal%20Warriors.png"
+    },
+    {
+      "name": "武藏严流记",
+      "genre": "平台动作",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO",
+        "USA"
+      ],
+      "download_url": "ganryu.zip",
+      "file_size": 19342511,
+      "sha256": "b09e604ba0ea53b4a75808774651209c2f67d56c72681ce37b4bf8f2c1b22c1f",
+      "rom_name": "ganryu",
+      "file_name": "ganryu.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ganryu.zip",
+      "name_en": "Ganryu / Musashi Ganryuki",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ganryu%20_%20Musashi%20Ganryuki.png"
+    },
+    {
+      "name": "饿狼传说 - 狼之烙印 (NGM-2530)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "garou.zip",
+      "file_size": 81007328,
+      "sha256": "a4bfcd5e130ffff35acd09de4943e1cdc85478b4c6325592a05f459e652b8843",
+      "rom_name": "garou",
+      "file_name": "garou.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/garou.zip",
+      "name_en": "Garou - Mark of the Wolves (NGM-2530)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Garou%20-%20Mark%20of%20the%20Wolves%20(Enable%20hidden%20characters).png"
+    },
+    {
+      "name": "射门!射门!射门!",
+      "genre": "体育",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "goalx3.zip",
+      "file_size": 4928854,
+      "sha256": "3fa074454dee33f2812364ad5ce2bdbab6ae5c15d30ed194ee5cc18bd1a36891",
+      "rom_name": "goalx3",
+      "file_name": "goalx3.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/goalx3.zip",
+      "name_en": "Goal! Goal! Goal!",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Goal!%20Goal!%20Goal!.png"
+    },
+    {
+      "name": "超人学园钢帝王",
+      "genre": "格斗",
+      "publisher": "Technos",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "gowcaizr.zip",
+      "file_size": 12682894,
+      "sha256": "7ec084565d30887e3c59014bbbaa87c7e784ce1cc6a97d91084df3fe715d387c",
+      "rom_name": "gowcaizr",
+      "file_name": "gowcaizr.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gowcaizr.zip",
+      "name_en": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Voltage%20Fighter%20-%20Gowcaizer%20_%20Choujin%20Gakuen%20Gowcaizer.png"
+    },
+    {
+      "name": "魔鬼飞行员 - 幽灵战区 (NGM-020)(NGH-020)",
+      "genre": "纵版射击",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "gpilots.zip",
+      "file_size": 3724326,
+      "sha256": "0e9f7009eedbb5373a7acf436a2058d4f6db5d79c76df9512832c43a4706aba4",
+      "rom_name": "gpilots",
+      "file_name": "gpilots.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gpilots.zip",
+      "name_en": "Ghost Pilots (NGM-020)(NGH-020)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghost%20Pilots%20(NGH-020)(US).png"
+    },
+    {
+      "name": "方块小人",
+      "genre": "益智",
+      "publisher": "Face",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "gururin.zip",
+      "file_size": 917870,
+      "sha256": "0e62c3aa8d2e4d17f432a01eabd09c749d393f64299c46df05a10be8de57d9bf",
+      "rom_name": "gururin",
+      "file_name": "gururin.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gururin.zip",
+      "name_en": "Gururin",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Gururin.png"
+    },
+    {
+      "name": "超铁战机 (Prototype)",
+      "genre": "横版射击",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ironclad.zip",
+      "file_size": 12197542,
+      "sha256": "65f83462936783df43597ef11adc6eabc3e146aab8b23ee9d5c476c1ff8932b0",
+      "rom_name": "ironclad",
+      "file_name": "ironclad.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ironclad.zip",
+      "name_en": "Choutetsu Brikin'ger - Iron clad (Prototype)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Choutetsu%20Brikin'ger%20-%20Iron%20clad%20(Prototype).png"
+    },
+    {
+      "name": "刺激迷宫 / 终极电流急急棒",
+      "genre": "其他",
+      "publisher": "SNK / Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "irrmaze.zip",
+      "file_size": 4717227,
+      "sha256": "4ea4ccbf628610918ec684d9d995aadb85d7341c869e1ce51d1e316d0fbf1944",
+      "rom_name": "irrmaze",
+      "file_name": "irrmaze.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/irrmaze.zip",
+      "name_en": "The Irritating Maze / Ultra Denryu Iraira Bou",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Irritating%20Maze%20_%20Ultra%20Denryu%20Iraira%20Bou.png"
+    },
+    {
+      "name": "雀神传说 - 寻找麻将大师",
+      "genre": "街机",
+      "publisher": "Aicom",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "janshin.zip",
+      "file_size": 3521474,
+      "sha256": "30a62082647b409179f0dc3c195bc338f355117fc703ecf7e0c9f1e4a2dd0298",
+      "rom_name": "janshin",
+      "file_name": "janshin.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/janshin.zip",
+      "name_en": "Jyanshin Densetsu - Quest of Jongmaster",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jyanshin%20Densetsu%20-%20Quest%20of%20Jongmaster.png"
+    },
+    {
+      "name": "赛马大奖赛 (set 1)",
+      "genre": "其他",
+      "publisher": "Sun Amusement / BrezzaSoft",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "jockeygp.zip",
+      "file_size": 17284427,
+      "sha256": "fbe23f38663a3f0dde0cc70657c03fefb26a1390484062e0a094f810b6a9189f",
+      "rom_name": "jockeygp",
+      "file_name": "jockeygp.zip",
+      "system": "NEOGEO",
+      "year": "2001",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/jockeygp.zip",
+      "name_en": "Jockey Grand Prix (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jockey%20Grand%20Prix%20(set%201).png"
+    },
+    {
+      "name": "阳光方块 (NGM-021)(NGH-021)",
+      "genre": "益智",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "joyjoy.zip",
+      "file_size": 1063584,
+      "sha256": "9140d80d6f14a56d3a5aae32b3961398e26603efd1be75aad298ef12e67211ce",
+      "rom_name": "joyjoy",
+      "file_name": "joyjoy.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/joyjoy.zip",
+      "name_en": "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzled%20_%20Joy%20Joy%20Kid%20(NGM-021)(NGH-021).png"
+    },
+    {
+      "name": "天外魔境真传 - 东方伊甸园",
+      "genre": "格斗",
+      "publisher": "Hudson",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kabukikl.zip",
+      "file_size": 12171825,
+      "sha256": "4546666d12251501babdec5a6911229cc3ffb91ec6fe1002602c5264cb8fee8d",
+      "rom_name": "kabukikl",
+      "file_name": "kabukikl.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kabukikl.zip",
+      "name_en": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Far%20East%20of%20Eden%20-%20Kabuki%20Klash%20_%20Tengai%20Makyou%20-%20Shin%20Den%20(Add%20hidden%20characters).png"
+    },
+    {
+      "name": "卡诺夫的复仇 / 格斗列传",
+      "genre": "格斗",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "karnovr.zip",
+      "file_size": 7144380,
+      "sha256": "d0644825e6e44b5f39c5e75a09a6ef30f1893a17d6040b09d2fb12c9d4bc7cbd",
+      "rom_name": "karnovr",
+      "file_name": "karnovr.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/karnovr.zip",
+      "name_en": "Karnov's Revenge / Fighter's History Dynamite",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Karnov's%20Revenge%20_%20Fighter's%20History%20Dynamite.png"
+    },
+    {
+      "name": "风云默示录 2 - 超级组队战",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kizuna.zip",
+      "file_size": 16872195,
+      "sha256": "e12ef5fd3c0a4edd64ee2bb513a77646de8fcc493fe834b59d0f41df63e2292f",
+      "rom_name": "kizuna",
+      "file_name": "kizuna.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kizuna.zip",
+      "name_en": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Kizuna%20Encounter%20-%20Super%20Tag%20Battle%20_%20Fu'un%20Super%20Tag%20Battle.png"
+    },
+    {
+      "name": "拳皇 2000 (NGM-2570) (NGH-2570)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof2000.zip",
+      "file_size": 81533713,
+      "sha256": "5e6a32baa07ed2600e94228536bba0e75f4db306fe5e320411f707c2d037e814",
+      "rom_name": "kof2000",
+      "file_name": "kof2000.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2000.zip",
+      "name_en": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202000%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "拳皇 2001 (NGM-262?)",
+      "genre": "格斗",
+      "publisher": "SNK / Eolith",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof2001.zip",
+      "file_size": 79840450,
+      "sha256": "01fa0b853fc12b712644c55fbc5b05fa3213aaf362b948ed913b9abbd29f72d4",
+      "rom_name": "kof2001",
+      "file_name": "kof2001.zip",
+      "system": "NEOGEO",
+      "year": "2001",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2001.zip",
+      "name_en": "The King of Fighters 2001 (NGM-262?)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202001%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "拳皇 2002 (NGM-2650)(NGH-2650)",
+      "genre": "格斗",
+      "publisher": "Eolith / Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof2002.zip",
+      "file_size": 82487603,
+      "sha256": "3fd419e145ef3efde36d526337d3f0f0558efde9daf924ae40b961fa00a67807",
+      "rom_name": "kof2002",
+      "file_name": "kof2002.zip",
+      "system": "NEOGEO",
+      "year": "2002",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2002.zip",
+      "name_en": "The King of Fighters 2002 (NGM-2650)(NGH-2650)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202002%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "拳皇 2003 (NGM-2710)",
+      "genre": "格斗",
+      "publisher": "SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof2003.zip",
+      "file_size": 84145382,
+      "sha256": "8b81ed77aa3095a726cbe43147d129fca3ecff8bd1ddd23498860a42b4478ab0",
+      "rom_name": "kof2003",
+      "file_name": "kof2003.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2003.zip",
+      "name_en": "The King of Fighters 2003 (NGM-2710)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202003%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "拳皇94 (NGM-055)(NGH-055)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof94.zip",
+      "file_size": 12866774,
+      "sha256": "21dbb8d18b8e0f428987f0672b86aec75ff0aa46d689d687d497a4b7bf3e1c87",
+      "rom_name": "kof94",
+      "file_name": "kof94.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof94.zip",
+      "name_en": "The King of Fighters '94 (NGM-055)(NGH-055)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'94%20(NGM-055)(NGH-055).png"
+    },
+    {
+      "name": "拳皇95 (NGM-084)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof95.zip",
+      "file_size": 16283503,
+      "sha256": "6df1a8ce8dacc1bf1dc3abf32b3361bbef0a9ec367e3986e590c6885ca1d406d",
+      "rom_name": "kof95",
+      "file_name": "kof95.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof95.zip",
+      "name_en": "The King of Fighters '95 (NGM-084)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'95%20(Enable%20Hidden%20Characters%20V.%5B_%5D).png"
+    },
+    {
+      "name": "拳皇96 (NGM-214)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof96.zip",
+      "file_size": 23749857,
+      "sha256": "1669f9285ed1be68d7dbb9220ad7f75a3317f3b34fb1a50819708b1819042f53",
+      "rom_name": "kof96",
+      "file_name": "kof96.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof96.zip",
+      "name_en": "The King of Fighters '96 (NGM-214)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'96%20(NGH-214).png"
+    },
+    {
+      "name": "拳皇97 (NGM-2320)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof97.zip",
+      "file_size": 28974799,
+      "sha256": "7882f271000c4ce1f23b462c89c2711a9ccf6418b3af07ee6a9be7389fa1619c",
+      "rom_name": "kof97",
+      "file_name": "kof97.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof97.zip",
+      "name_en": "The King of Fighters '97 (NGM-2320)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'97%20(Imitation%20Playstation%20final%20improved%20version%202016-10-29).png"
+    },
+    {
+      "name": "拳皇98 - 梦战斗未结束 (NGM-2420)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof98.zip",
+      "file_size": 40811592,
+      "sha256": "2ef2462dae4c2143ebdfd4bc85c1f68a5413824faf73eacbeb69d492e722e1b1",
+      "rom_name": "kof98",
+      "file_name": "kof98.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof98.zip",
+      "name_en": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'98%20-%20The%20Slugfest%20_%20King%20of%20Fighters%20'98%20-%20Dream%20Match%20Never%20Ends%20(Korean%20board%2C%20set%201).png"
+    },
+    {
+      "name": "拳皇99 - 千年之战 (NGM-2510)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kof99.zip",
+      "file_size": 78859075,
+      "sha256": "2ea76b2981c16806b86ff724394590aa760af7a34c44030b5156553d6d37a55e",
+      "rom_name": "kof99",
+      "file_name": "kof99.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof99.zip",
+      "name_en": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'99%20-%20Millennium%20Battle%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "怪兽之王 (set 1)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kotm.zip",
+      "file_size": 4048742,
+      "sha256": "334345527bae5b22b9bbe0c48763e1657c75bc172c368fe22942be3c14b00146",
+      "rom_name": "kotm",
+      "file_name": "kotm.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kotm.zip",
+      "name_en": "King of the Monsters (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/King%20of%20the%20Monsters%20(set%201).png"
+    },
+    {
+      "name": "怪兽之王 2 - 下一事件 (NGM-039)(NGH-039)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "kotm2.zip",
+      "file_size": 5532179,
+      "sha256": "e5eb543fc9cce7d4ba00dadde231c5091604deef401012e3c2d3cc6015341f92",
+      "rom_name": "kotm2",
+      "file_name": "kotm2.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kotm2.zip",
+      "name_en": "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/King%20of%20the%20Monsters%202%20-%20The%20Next%20Thing%20(NGM-039)(NGH-039).png"
+    },
+    {
+      "name": "幕末浪漫 月华剑士 (NGM-2340)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "lastblad.zip",
+      "file_size": 26513762,
+      "sha256": "f755b9c01ac3fa5742948d994aa47ea8cf41d19b35ce88a71a3a009aa23b257b",
+      "rom_name": "lastblad",
+      "file_name": "lastblad.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lastblad.zip",
+      "name_en": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Last%20Blade%20_%20Bakumatsu%20Roman%20-%20Gekka%20no%20Kenshi%20(NGH-2340).png"
+    },
+    {
+      "name": "幕末浪漫第二幕 月华剑士 - 月中芳华 散落月下 (NGM-2430)(NGH-2430)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "lastbld2.zip",
+      "file_size": 32652126,
+      "sha256": "de3c2ddf4ef6e11a56fe4b3af0460839a68e7b6bfc4f0e0347d75bc6f604103e",
+      "rom_name": "lastbld2",
+      "file_name": "lastbld2.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lastbld2.zip",
+      "name_en": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Last%20Blade%202%20_%20Bakumatsu%20Roman%20-%20Dai%20Ni%20Maku%20Gekka%20no%20Kenshi%20(Enable%20Hidden%20Characters%20V4).png"
+    },
+    {
+      "name": "联盟保龄球 (NGM-019)(NGH-019)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "lbowling.zip",
+      "file_size": 1623832,
+      "sha256": "a09fc5d3acbde1d68607988df33ad82a54cfc1bee7374801cc003b0d646f7069",
+      "rom_name": "lbowling",
+      "file_name": "lbowling.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lbowling.zip",
+      "name_en": "League Bowling (NGM-019)(NGH-019)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/League%20Bowling%20(NGM-019)(NGH-019).png"
+    },
+    {
+      "name": "明日之丈传说",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "legendos.zip",
+      "file_size": 1651087,
+      "sha256": "4145ad72b8b1c9b897cbff389a64d49f8717ad9fc40594d3f7ecd92c2c0862f5",
+      "rom_name": "legendos",
+      "file_name": "legendos.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/legendos.zip",
+      "name_en": "Legend of Success Joe / Ashitano Joe Densetsu",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Legend%20of%20Success%20Joe%20_%20Ashita%20no%20Joe%20Densetsu.png"
+    },
+    {
+      "name": "Last Hope CD Beta (Neo CD conversion)",
+      "genre": "益智",
+      "publisher": "NG:Dev.Team",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "lhcdb.zip",
+      "file_size": 13348947,
+      "sha256": "5d5fb405ba055e0fea73018f8f770669a4c4b8441f6891d87a626b5a8ae710f6",
+      "rom_name": "lhcdb",
+      "file_name": "lhcdb.zip",
+      "system": "NEOGEO",
+      "year": "2007",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lhcdb.zip",
+      "name_en": "Last Hope CD Beta (Neo CD conversion)",
+      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/lhcdb.png"
+    },
+    {
+      "name": "终极手段",
+      "genre": "横版射击",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "lresort.zip",
+      "file_size": 2935613,
+      "sha256": "0a46b7d5bc440a6cfa4952a3fb5564a91707585ac920877edb66eb8b98f09357",
+      "rom_name": "lresort",
+      "file_name": "lresort.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lresort.zip",
+      "name_en": "Last Resort",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Last%20Resort%20(prototype).png"
+    },
+    {
+      "name": "Jonas Indiana and the Lost Temple of RA (20050717)",
+      "genre": "平台动作",
+      "publisher": "blastar@gmx.net",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ltorb1.zip",
+      "file_size": 35408,
+      "sha256": "d45d338cdd1979634a35b160d2267bfd0c58b14c4bd86a38196a99a419db6999",
+      "rom_name": "ltorb1",
+      "file_name": "ltorb1.zip",
+      "system": "NEOGEO",
+      "year": "2005",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ltorb1.zip",
+      "name_en": "Jonas Indiana and the Lost Temple of RA (20050717)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jonas%20Indiana%20and%20the%20Lost%20Temple%20of%20RA%20(20050717).png"
+    },
+    {
+      "name": "魔法堆球 II",
+      "genre": "益智",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "magdrop2.zip",
+      "file_size": 3712477,
+      "sha256": "51eccee2226478e3c9a1c319e299c19750cab0407d3780ea9b31a0629098f2f9",
+      "rom_name": "magdrop2",
+      "file_name": "magdrop2.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/magdrop2.zip",
+      "name_en": "Magical Drop II",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magical%20Drop%20II.png"
+    },
+    {
+      "name": "魔法堆球 III",
+      "genre": "益智",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "magdrop3.zip",
+      "file_size": 8626984,
+      "sha256": "424da3bda6ecd9f99ce0a80dfa6ff53d46a1081e239b026e58235e5e64e349a3",
+      "rom_name": "magdrop3",
+      "file_name": "magdrop3.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/magdrop3.zip",
+      "name_en": "Magical Drop III",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magical%20Drop%20III.png"
+    },
+    {
+      "name": "幻魔大战 (NGM-005)",
+      "genre": "平台动作",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "maglord.zip",
+      "file_size": 2874133,
+      "sha256": "8c1a3b82fb51c90f7110dc89d6176d9c7db6dfed5013ed913537e831e7923f4d",
+      "rom_name": "maglord",
+      "file_name": "maglord.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/maglord.zip",
+      "name_en": "Magician Lord (NGM-005)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magician%20Lord%20(NGH-005).png"
+    },
+    {
+      "name": "麻将狂列传 (NGM-004)(NGH-004)",
+      "genre": "街机",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mahretsu.zip",
+      "file_size": 3043973,
+      "sha256": "6fec15f504363e2f1b06512a93d8d3e50fa85b6035fe3a8d961a46cf81c9eee7",
+      "rom_name": "mahretsu",
+      "file_name": "mahretsu.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mahretsu.zip",
+      "name_en": "Mahjong Kyo Retsuden (NGM-004)(NGH-004)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mahjong%20Kyo%20Retsuden%20(NGM-004)(NGH-004).png"
+    },
+    {
+      "name": "小丸子问答",
+      "genre": "街机",
+      "publisher": "Takara",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "marukodq.zip",
+      "file_size": 4467358,
+      "sha256": "11e950414a0cfb3e14e92d514e4a788c03ddfe621afb75a8dfe47a89fd3493b2",
+      "rom_name": "marukodq",
+      "file_name": "marukodq.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/marukodq.zip",
+      "name_en": "Chibi Marukochan Deluxe Quiz",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Chibi%20Marukochan%20Deluxe%20Quiz.png"
+    },
+    {
+      "name": "新豪血寺一族 - 斗婚 (NGM-2660) (NGH-2660)",
+      "genre": "格斗",
+      "publisher": "Noise Factory / Atlus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "matrim.zip",
+      "file_size": 82322656,
+      "sha256": "ecb27a9bd62fcdcbcc603549482e50181880fc90471c0163aeb00ee2508f92de",
+      "rom_name": "matrim",
+      "file_name": "matrim.zip",
+      "system": "NEOGEO",
+      "year": "2002",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/matrim.zip",
+      "name_en": "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Matrimelee%20_%20Shin%20Gouketsuji%20Ichizoku%20Toukon%20(Enable%20Hidden%20Characters%20V2).png"
+    },
+    {
+      "name": "金钱益智对决",
+      "genre": "益智",
+      "publisher": "Face",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "miexchng.zip",
+      "file_size": 5378672,
+      "sha256": "05dedf712a5330fc6116a0f4c1b36d4b6100621c1706fa0650d1efe5ff7e8e7d",
+      "rom_name": "miexchng",
+      "file_name": "miexchng.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/miexchng.zip",
+      "name_en": "Money Puzzle Exchanger / Money Idol Exchanger",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Money%20Puzzle%20Exchanger%20_%20Money%20Idol%20Exchanger.png"
+    },
+    {
+      "name": "皆大欢喜! 骰子大会 (MOM-001)(MOH-001)",
+      "genre": "街机",
+      "publisher": "Monolith Corp.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "minasan.zip",
+      "file_size": 2111109,
+      "sha256": "6c30721623d7bcf1a350a0c4dd7e8160433be2eca838f8f047a7d252e1aa3512",
+      "rom_name": "minasan",
+      "file_name": "minasan.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/minasan.zip",
+      "name_en": "Minasanno Okagesamadesu! Daisugorokutaikai (MOM-001)(MOH-001)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Minasan%20no%20Okagesamadesu!%20Dai%20Sugoroku%20Taikai%20(MOM-001%20~%20MOH-001).png"
+    },
+    {
+      "name": "Syougi No Tatsujin - Master of Syougi",
+      "genre": "益智",
+      "publisher": "ADK / SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mosyougi.zip",
+      "file_size": 3749980,
+      "sha256": "fd54332b5b6ccfef690722b8ce124cc2063e978bc947529fb9bbe76448ec0ba8",
+      "rom_name": "mosyougi",
+      "file_name": "mosyougi.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mosyougi.zip",
+      "name_en": "Syougi No Tatsujin - Master of Syougi",
+      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/mosyougi.png"
+    },
+    {
+      "name": "合金弹头 - 超级坦克-001",
+      "genre": "平台动作",
+      "publisher": "Nazca",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslug.zip",
+      "file_size": 13240954,
+      "sha256": "def347b7150899c2ed9193ba2d08bf48b63f66cf327f00a366b5c8848145b4ed",
+      "rom_name": "mslug",
+      "file_name": "mslug.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug.zip",
+      "name_en": "Metal Slug - Super Vehicle-001",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%20-%20Super%20Vehicle-001.png"
+    },
+    {
+      "name": "合金弹头 2 - 超级坦克-001/II (NGM-2410) (NGH-2410)",
+      "genre": "平台动作",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslug2.zip",
+      "file_size": 17604728,
+      "sha256": "78336dda8950a01030c9d24f53644b3e324e570a515dfca46d7a5134da595324",
+      "rom_name": "mslug2",
+      "file_name": "mslug2.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug2.zip",
+      "name_en": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(NGM-2410)%20(NGH-2410).png"
+    },
+    {
+      "name": "合金弹头 3 (NGM-2560)",
+      "genre": "平台动作",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslug3.zip",
+      "file_size": 80476230,
+      "sha256": "b13d4bcb5320082b14eea331ae01246bb6bac13213b629c6186b75d55ebc1514",
+      "rom_name": "mslug3",
+      "file_name": "mslug3.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug3.zip",
+      "name_en": "Metal Slug 3 (NGM-2560)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%203%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "合金弹头 4 (NGM-2630)",
+      "genre": "平台动作",
+      "publisher": "Mega",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslug4.zip",
+      "file_size": 63389103,
+      "sha256": "9c0a7665c2f587b7f950b8b6b36436406d06e9d0d7e3207ec467cf4cc0e4684d",
+      "rom_name": "mslug4",
+      "file_name": "mslug4.zip",
+      "system": "NEOGEO",
+      "year": "2002",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug4.zip",
+      "name_en": "Metal Slug 4 (NGM-2630)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%204%20(20th%20Anniversary).png"
+    },
+    {
+      "name": "合金弹头 5 (NGM-2680)",
+      "genre": "平台动作",
+      "publisher": "SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslug5.zip",
+      "file_size": 81168445,
+      "sha256": "5451c369919964ffb4d0d05819d85dbd533fe9a04409595e7a4221b9a1b9c171",
+      "rom_name": "mslug5",
+      "file_name": "mslug5.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug5.zip",
+      "name_en": "Metal Slug 5 (NGM-2680)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%205%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "合金弹头 X - 超级坦克-001 (NGM-2500)(NGH-2500)",
+      "genre": "平台动作",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mslugx.zip",
+      "file_size": 28753725,
+      "sha256": "e75b124971a3e58589f3b657f79639723e159c6cfa00a9bce5edd698bd917ee8",
+      "rom_name": "mslugx",
+      "file_name": "mslugx.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslugx.zip",
+      "name_en": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(NGM-2500)(NGH-2500).png"
+    },
+    {
+      "name": "外星游龙 - 变异种族 (NGM-014)(NGH-014)",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "mutnat.zip",
+      "file_size": 3794158,
+      "sha256": "a04d037a8deb57c6435ec8b987b859890acfe3435bab1e6f292512a563efa4cb",
+      "rom_name": "mutnat",
+      "file_name": "mutnat.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mutnat.zip",
+      "name_en": "Mutation Nation (NGM-014)(NGH-014)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mutation%20Nation%20(NGM-014)(NGH-014).png"
+    },
+    {
+      "name": "越战 1975 (NGM-001)(NGH-001)",
+      "genre": "其他",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "nam1975.zip",
+      "file_size": 3127205,
+      "sha256": "471244b71d26d04b41180ee9c3b8fa6f63aedab7406da2f4a4581f395572d3d6",
+      "rom_name": "nam1975",
+      "file_name": "nam1975.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/nam1975.zip",
+      "name_en": "NAM-1975 (NGM-001)(NGH-001)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/NAM-1975%20(NGM-001)(NGH-001).png"
+    },
+    {
+      "name": "忍者大战 (NGM-009)",
+      "genre": "动作过关",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ncombat.zip",
+      "file_size": 3069139,
+      "sha256": "abbcfefb1914a6b02890b5dc5ed3ceada0df89892adc37c59a39af2ff804fc54",
+      "rom_name": "ncombat",
+      "file_name": "ncombat.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ncombat.zip",
+      "name_en": "Ninja Combat (NGM-009)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Combat%20(NGH-009).png"
+    },
+    {
+      "name": "忍者指令",
+      "genre": "纵版射击",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ncommand.zip",
+      "file_size": 3378677,
+      "sha256": "69d88d49c177da0e7294503cfd45fb1b7730b80491f1b36f2c5de35e1af3dbb3",
+      "rom_name": "ncommand",
+      "file_name": "ncommand.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ncommand.zip",
+      "name_en": "Ninja Commando",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Commando.png"
+    },
+    {
+      "name": "Neo 炸弹人",
+      "genre": "迷宫",
+      "publisher": "Hudson",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neobombe.zip",
+      "file_size": 6283647,
+      "sha256": "5026ac75f67b5034a77db85a8cdd789336be678bf57f13a51943708078382219",
+      "rom_name": "neobombe",
+      "file_name": "neobombe.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neobombe.zip",
+      "name_en": "Neo Bomberman",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Bomberman.png"
+    },
+    {
+      "name": "Neo-Geo 杯98 - 胜利之路",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neocup98.zip",
+      "file_size": 10070719,
+      "sha256": "f487f26be1739fb79b65c0919e0ca5553d801f577f97bc307bc0d4b9e4c15f87",
+      "rom_name": "neocup98",
+      "file_name": "neocup98.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neocup98.zip",
+      "name_en": "Neo-Geo Cup '98 - The Road to the Victory",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png"
+    },
+    {
+      "name": "Neo 越野漂移 - 新的技术",
+      "genre": "竞速",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neodrift.zip",
+      "file_size": 8609159,
+      "sha256": "142a7c827acb79b2fdca0b55470b097bfc84747f64403fca67b4fabaa1d5dab0",
+      "rom_name": "neodrift",
+      "file_name": "neodrift.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neodrift.zip",
+      "name_en": "Neo Drift Out - New Technology",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Drift%20Out%20-%20New%20Technology.png"
+    },
+    {
+      "name": "Neo 小丑先生",
+      "genre": "迷宫",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neomrdo.zip",
+      "file_size": 1623600,
+      "sha256": "407c53956c809f13e15eaff2ba84cb10ad5f208b6dba569bd608e868d4aa8700",
+      "rom_name": "neomrdo",
+      "file_name": "neomrdo.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neomrdo.zip",
+      "name_en": "Neo Mr. Do!",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Mr.%20Do!.png"
+    },
+    {
+      "name": "Neo Pong (ver 1.1)",
+      "genre": "街机",
+      "publisher": "Neo Dev Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neopong.zip",
+      "file_size": 2018683,
+      "sha256": "b46e935c47088d803d4c43eef88f46ec242f90fa462bf436fafeb4fbb6c50e4e",
+      "rom_name": "neopong",
+      "file_name": "neopong.zip",
+      "system": "NEOGEO",
+      "year": "2002",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neopong.zip",
+      "name_en": "Neo Pong (ver 1.1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Pong%20(HB%2C%20v1.0).png"
+    },
+    {
+      "name": "Frog Feast (Neo Geo)",
+      "genre": "其他",
+      "publisher": "Rastersoft",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ngfrog.zip",
+      "file_size": 1557135,
+      "sha256": "7f1a0f10ac221cd8ce1a03ebbb4b1c6fc3fcbe4d9da443123e0c9d9d9cd5805f",
+      "rom_name": "ngfrog",
+      "file_name": "ngfrog.zip",
+      "system": "NEOGEO",
+      "year": "2006",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ngfrog.zip",
+      "name_en": "Frog Feast (Neo Geo)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Frog%20Feast%20(CPS-1).png"
+    },
+    {
+      "name": "霸王忍法帖",
+      "genre": "格斗",
+      "publisher": "ADK / SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ninjamas.zip",
+      "file_size": 18189577,
+      "sha256": "ebc4baa4ec1a0f067f67c929a7a0b0fe076dc5885958ea68985c51a1c14ea356",
+      "rom_name": "ninjamas",
+      "file_name": "ninjamas.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ninjamas.zip",
+      "name_en": "Ninja Master's - haoh-ninpo-cho",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Master's%20-%20Haoh-ninpo-cho%20(Plus).png"
+    },
+    {
+      "name": "午夜噩梦",
+      "genre": "平台动作",
+      "publisher": "Eleven / Gavaking",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "nitd.zip",
+      "file_size": 17881658,
+      "sha256": "b26ce47cac0c99ad0bd7f1f44b5e52e9f7e6f8b79b69742f56e952b1c5046200",
+      "rom_name": "nitd",
+      "file_name": "nitd.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/nitd.zip",
+      "name_en": "Nightmare in the Dark",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Nightmare%20in%20the%20Dark%20(bootleg).png"
+    },
+    {
+      "name": "跨越巅峰",
+      "genre": "竞速",
+      "publisher": "ADK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "overtop.zip",
+      "file_size": 12336523,
+      "sha256": "b6ee084eabd072abcad0bf606c9f46d70f99cc082dca06208ee8ff5cb9c25e19",
+      "rom_name": "overtop",
+      "file_name": "overtop.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/overtop.zip",
+      "name_en": "Over Top",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Over%20Top.png"
+    },
+    {
+      "name": "炸弹人方块",
+      "genre": "益智",
+      "publisher": "Eighting / Hudson",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "panicbom.zip",
+      "file_size": 2651555,
+      "sha256": "9e2c09e3735e8413f4e9321cb0d0a360e652d5329bd5e19a5c5da66270285f15",
+      "rom_name": "panicbom",
+      "file_name": "panicbom.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/panicbom.zip",
+      "name_en": "Panic Bomber",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Panic%20Bomber.png"
+    },
+    {
+      "name": "泡泡龙 2 / 再次爆裂移动 (Neo-Geo)",
+      "genre": "益智",
+      "publisher": "Taito (SNK license)",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pbobbl2n.zip",
+      "file_size": 8593768,
+      "sha256": "bdd74b420b34ad7b2fb9222f93615dee85758b995b92673f7ce627f76a22828f",
+      "rom_name": "pbobbl2n",
+      "file_name": "pbobbl2n.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pbobbl2n.zip",
+      "name_en": "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20Bobble%202%20_%20Bust-A-Move%20Again%20(Neo-Geo).png"
+    },
+    {
+      "name": "泡泡龙 / 爆裂移动 (Neo-Geo) (NGM-083)",
+      "genre": "益智",
+      "publisher": "Taito",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pbobblen.zip",
+      "file_size": 3694492,
+      "sha256": "d8a16d162ff7055ae1f09fd2c96bbbfd8bb095fe83f6221993ef15a6ab3e02b9",
+      "rom_name": "pbobblen",
+      "file_name": "pbobblen.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pbobblen.zip",
+      "name_en": "Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20Bobble%20_%20Bust-A-Move%20(Neo-Geo)%20(NGM-083).png"
+    },
+    {
+      "name": "快乐射门 / 五人足球 (NGM-219)",
+      "genre": "体育",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pgoal.zip",
+      "file_size": 7309219,
+      "sha256": "3a03fc1753e1b908a1d188261d0bf3da068c82fe9f18bc6c77dd99893115356c",
+      "rom_name": "pgoal",
+      "file_name": "pgoal.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pgoal.zip",
+      "name_en": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pleasure%20Goal%20_%20Futsal%20-%205%20on%205%20Mini%20Soccer%20(NGM-219).png"
+    },
+    {
+      "name": "宠物方块",
+      "genre": "益智",
+      "publisher": "Aiky / Taito",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pnyaa.zip",
+      "file_size": 21035200,
+      "sha256": "40e9b6f4df4c1a62a60119f96fc50edd44108d68c9b491de9ece02d8df952d0a",
+      "rom_name": "pnyaa",
+      "file_name": "pnyaa.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pnyaa.zip",
+      "name_en": "Pochi and Nyaa",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pochi%20and%20Nyaa%20(Ver%202.00).png"
+    },
+    {
+      "name": "Poker Night",
+      "genre": "街机",
+      "publisher": "Jeff Kurtz",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "poknight.zip",
+      "file_size": 82983,
+      "sha256": "1e1cacfb79b7a83e75c5f5cede765b9c60a7cc6f91de9772b3772d2f75ff17bd",
+      "rom_name": "poknight",
+      "file_name": "poknight.zip",
+      "system": "NEOGEO",
+      "year": "????",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/poknight.zip",
+      "name_en": "Poker Night",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Poker%20Night%20(HB).png"
+    },
+    {
+      "name": "暴击跳跳球",
+      "genre": "益智",
+      "publisher": "Video System Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "popbounc.zip",
+      "file_size": 3047821,
+      "sha256": "4af513da48a9372595b07ec853346417cefed364491bf9b1d9fea10cc7bdd186",
+      "rom_name": "popbounc",
+      "file_name": "popbounc.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/popbounc.zip",
+      "name_en": "Pop 'n Bounce / Gapporin",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pop%20'n%20Bounce%20_%20Gapporin.png"
+    },
+    {
+      "name": "原始岛 2",
+      "genre": "横版射击",
+      "publisher": "Yumekobo",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "preisle2.zip",
+      "file_size": 54671435,
+      "sha256": "83d32c18d2d3265fad54922a3ecc78173020049be844dc43e3cb15ca2119ddf0",
+      "rom_name": "preisle2",
+      "file_name": "preisle2.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/preisle2.zip",
+      "name_en": "Prehistoric Isle 2",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Prehistoric%20Isle%202.png"
+    },
+    {
+      "name": "力量排球 II (NGM-068)",
+      "genre": "体育",
+      "publisher": "Video System Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pspikes2.zip",
+      "file_size": 4017331,
+      "sha256": "8dff36cff24cbce69ab374aa94ee84d44bc94d216ba758f8da20fbf342ed4869",
+      "rom_name": "pspikes2",
+      "file_name": "pspikes2.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pspikes2.zip",
+      "name_en": "Power Spikes II (NGM-068)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Power%20Spikes%20II%20(NGM-068).png"
+    },
+    {
+      "name": "惑星战机",
+      "genre": "横版射击",
+      "publisher": "Aicom",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "pulstar.zip",
+      "file_size": 18922588,
+      "sha256": "dd65fb954f282e371e85b5fe705f2409573e623524855ab77a670c912ebd5aa4",
+      "rom_name": "pulstar",
+      "file_name": "pulstar.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pulstar.zip",
+      "name_en": "Pulstar",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pulstar%20(alternate%20board).png"
+    },
+    {
+      "name": "益智气泡",
+      "genre": "益智",
+      "publisher": "Taito (Visco license)",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "puzzledp.zip",
+      "file_size": 774350,
+      "sha256": "7276cb32f19f0f5da85970dbca4972b058f510e7cc63b4228e779714acc5458a",
+      "rom_name": "puzzledp",
+      "file_name": "puzzledp.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/puzzledp.zip",
+      "name_en": "Puzzle De Pon!",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20De%20Pon!.png"
+    },
+    {
+      "name": "问答大搜查线 - 最后倒计时 (NGM-023)(NGH-023)",
+      "genre": "街机",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO",
+        "USA"
+      ],
+      "download_url": "quizdais.zip",
+      "file_size": 2078926,
+      "sha256": "41ac9624f381afe6b71eab6e792cd25196b5ed84685e01ebc8859a78cb8eb9aa",
+      "rom_name": "quizdais",
+      "file_name": "quizdais.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/quizdais.zip",
+      "name_en": "Quiz Daisousa Sen - The Last Count Down (NGM-023)(NGH-023)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Daisousa%20Sen%20-%20The%20Last%20Count%20Down%20(Korean%20release).png"
+    },
+    {
+      "name": "拳皇问答 (SAM-080)(SAH-080)",
+      "genre": "街机",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "quizkof.zip",
+      "file_size": 8691945,
+      "sha256": "df5996adbb45e49d6bc02c87d154699361396e47688a1722e6247836cf6f600e",
+      "rom_name": "quizkof",
+      "file_name": "quizkof.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/quizkof.zip",
+      "name_en": "Quiz King of Fighters (SAM-080)(SAH-080)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20King%20of%20Fighters%20(Korea).png"
+    },
+    {
+      "name": "神凰拳",
+      "genre": "格斗",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ragnagrd.zip",
+      "file_size": 23044480,
+      "sha256": "fff16e97a61570f1f40f617230dd475312c5c301dd5594b81e4bf16f550df3af",
+      "rom_name": "ragnagrd",
+      "file_name": "ragnagrd.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ragnagrd.zip",
+      "name_en": "Ragnagard / Shin-Oh-Ken",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ragnagard%20_%20Shin-Oh-Ken.png"
+    },
+    {
+      "name": "真饿狼传说 (NGM-095)(NGH-095)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "rbff1.zip",
+      "file_size": 24294030,
+      "sha256": "c6d18b3ff47667ffaec30654b9e3ff9dc20c730f47129479ab0811fad7a628f8",
+      "rom_name": "rbff1",
+      "file_name": "rbff1.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbff1.zip",
+      "name_en": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%20_%20Real%20Bout%20Garou%20Densetsu%20(Korean%20release).png"
+    },
+    {
+      "name": "真饿狼传说 2 - 新的来者 (NGM-2400)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "rbff2.zip",
+      "file_size": 29956237,
+      "sha256": "5fc512892b03e09c0558ee27c924dd944f21985f5b9ed8abf9ad5b867751e2c2",
+      "rom_name": "rbff2",
+      "file_name": "rbff2.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbff2.zip",
+      "name_en": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%202%20-%20The%20Newcomers%20_%20Real%20Bout%20Garou%20Densetsu%202%20-%20The%20Newcomers%20(NGH-2400).png"
+    },
+    {
+      "name": "真饿狼传说特别版",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "rbffspec.zip",
+      "file_size": 25040342,
+      "sha256": "c97ad15833e91109189a498f14f17495bf8b6a421f019aa1d65784318e0634c3",
+      "rom_name": "rbffspec",
+      "file_name": "rbffspec.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbffspec.zip",
+      "name_en": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%20Special%20_%20Real%20Bout%20Garou%20Densetsu%20Special%20(Korean%20release).png"
+    },
+    {
+      "name": "铁骑英雄 (NGM-006)(NGH-006)",
+      "genre": "竞速",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ridhero.zip",
+      "file_size": 3681806,
+      "sha256": "e32f80485bc6d87d3e52afe34dba933f892ca5e255c0a4097f8b59ef8efa299d",
+      "rom_name": "ridhero",
+      "file_name": "ridhero.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ridhero.zip",
+      "name_en": "Riding Hero (NGM-006)(NGH-006)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Riding%20Hero%20(NGM-006)(NGH-006).png"
+    },
+    {
+      "name": "龙吼 (NGM-264?)",
+      "genre": "格斗",
+      "publisher": "Evoga / Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "rotd.zip",
+      "file_size": 76594457,
+      "sha256": "0e11129332c6c886b4b4da0e82af3e2deb71a05e81062ed16a4d52c5ba85979f",
+      "rom_name": "rotd",
+      "file_name": "rotd.zip",
+      "system": "NEOGEO",
+      "year": "2002",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rotd.zip",
+      "name_en": "Rage of the Dragons (NGM-264?)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Rage%20of%20the%20Dragons%20(NGH-2640).png"
+    },
+    {
+      "name": "打击者 1945 加强版",
+      "genre": "纵版射击",
+      "publisher": "Psikyo",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "s1945p.zip",
+      "file_size": 77362140,
+      "sha256": "909ecd891628cba2f738596c9a7a322bcd9e3a3544426bdd45a3acdcc206984d",
+      "rom_name": "s1945p",
+      "file_name": "s1945p.zip",
+      "system": "NEOGEO",
+      "year": "1999",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/s1945p.zip",
+      "name_en": "Strikers 1945 Plus",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Strikers%201945%20Plus.png"
+    },
+    {
+      "name": "侍魂 V 特别版 / 侍魂 零 特别版 (NGM-2720)",
+      "genre": "格斗",
+      "publisher": "Yuki Enterprise / SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "samsh5sp.zip",
+      "file_size": 83047597,
+      "sha256": "586f06356058141e08027f46cec744c8c6908c7c89a70be27c50f297da30ef60",
+      "rom_name": "samsh5sp",
+      "file_name": "samsh5sp.zip",
+      "system": "NEOGEO",
+      "year": "2004",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsh5sp.zip",
+      "name_en": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "侍魂 I - 十二剑手 (NGM-045)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "samsho.zip",
+      "file_size": 8396858,
+      "sha256": "24809de672a20e1fd0ffede4bc5736f07ab2135b317ef9c13ec9235703ae02d4",
+      "rom_name": "samsho",
+      "file_name": "samsho.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho.zip",
+      "name_en": "Samurai Shodown / Samurai Spirits (NGM-045)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png"
+    },
+    {
+      "name": "侍魂 II / 真侍魂 - 霸王丸地狱变 (NGM-063)(NGH-063)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "samsho2.zip",
+      "file_size": 14565409,
+      "sha256": "515186ec7e433261525f294e1943df55ecd4676011289714f25897886873b058",
+      "rom_name": "samsho2",
+      "file_name": "samsho2.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho2.zip",
+      "name_en": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20Jigokuhen%20(NGM-063%20~%20NGH-063).png"
+    },
+    {
+      "name": "侍魂 III - 斩红郎无双剑 (NGM-087)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "samsho3.zip",
+      "file_size": 17689819,
+      "sha256": "01f4bd07484eac1caa7a18abaefb89d28fe8653b4ad30aea6a055530c33ebcfe",
+      "rom_name": "samsho3",
+      "file_name": "samsho3.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho3.zip",
+      "name_en": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png"
+    },
+    {
+      "name": "侍魂 IV - 天草降临 (NGM-222)(NGH-222)",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO",
+        "USA"
+      ],
+      "download_url": "samsho4.zip",
+      "file_size": 22840830,
+      "sha256": "685907d73218372567a141e185f819ec3b98f3c4c48c4bd1ecf3467e9d3df83b",
+      "rom_name": "samsho4",
+      "file_name": "samsho4.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho4.zip",
+      "name_en": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png"
+    },
+    {
+      "name": "侍魂 V / 侍魂 零 (NGM-2700)",
+      "genre": "格斗",
+      "publisher": "Yuki Enterprise / SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "samsho5.zip",
+      "file_size": 83171278,
+      "sha256": "b75e348c0c5cbcbb07178e816c8f785fc75d2ec548ca473d61b45e10601a8975",
+      "rom_name": "samsho5",
+      "file_name": "samsho5.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho5.zip",
+      "name_en": "Samurai Shodown V / Samurai Spirits Zero (NGM-2700)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "风云默示录 - 格斗创世",
+      "genre": "格斗",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "savagere.zip",
+      "file_size": 13334120,
+      "sha256": "ae656ea504c639d8c2b66ba1cbfeca38e72b508f67ca03b88fa54a45a0de732d",
+      "rom_name": "savagere",
+      "file_name": "savagere.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/savagere.zip",
+      "name_en": "Savage Reign / Fu'un Mokushiroku - kakutou sousei",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Savage%20Reign%20_%20Fu'un%20Mokushiroku%20-%20Kakutou%20Sousei.png"
+    },
+    {
+      "name": "超级躲避球 / 国夫君热血斗球传说",
+      "genre": "体育",
+      "publisher": "Technos",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sdodgeb.zip",
+      "file_size": 7271015,
+      "sha256": "414f6c90535d047477897d61c9b2cea76188d559be112a0b908700449830b3d3",
+      "rom_name": "sdodgeb",
+      "file_name": "sdodgeb.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sdodgeb.zip",
+      "name_en": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Dodge%20Ball%20_%20Kunio%20no%20Nekketsu%20Toukyuu%20Densetsu.png"
+    },
+    {
+      "name": "战国 / 战国传承 (NGM-017)(NGH-017)",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sengoku.zip",
+      "file_size": 3577866,
+      "sha256": "bbe3cc245de31b20fb026320df853bd52debd12a6fcbc298f9f49952ce34f3ec",
+      "rom_name": "sengoku",
+      "file_name": "sengoku.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku.zip",
+      "name_en": "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%20_%20Sengoku%20Denshou%20(NGH-017)(US).png"
+    },
+    {
+      "name": "战国 2 / 战国传承 2",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sengoku2.zip",
+      "file_size": 5309229,
+      "sha256": "f5a1f0892e7697afda5f754f876785988dfbc0ee3c0aa387404273c73a5665e0",
+      "rom_name": "sengoku2",
+      "file_name": "sengoku2.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku2.zip",
+      "name_en": "Sengoku 2 / Sengoku Denshou 2",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%202%20_%20Sengoku%20Denshou%202.png"
+    },
+    {
+      "name": "战国 3 / 战国传承 2001",
+      "genre": "动作过关",
+      "publisher": "SNK / Noise Factory",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sengoku3.zip",
+      "file_size": 44806922,
+      "sha256": "840b2a28c24c3dafbf1f60d15bb74c73a8f9bc6732e07032040cb2248383e638",
+      "rom_name": "sengoku3",
+      "file_name": "sengoku3.zip",
+      "system": "NEOGEO",
+      "year": "2001",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku3.zip",
+      "name_en": "Sengoku 3 / Sengoku Densho 2001",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%203%20_%20Sengoku%20Densho%202001%20(Feng%20Shen%20Edition).png"
+    },
+    {
+      "name": "突击骑兵 - 第二分队",
+      "genre": "纵版射击",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "shocktr2.zip",
+      "file_size": 28986171,
+      "sha256": "4b38e14c81a0b0f10fd84eda4d28721f823f37a6fb14194d646b846f97edc4ed",
+      "rom_name": "shocktr2",
+      "file_name": "shocktr2.zip",
+      "system": "NEOGEO",
+      "year": "1998",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/shocktr2.zip",
+      "name_en": "Shock Troopers - 2nd Squad",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Shock%20Troopers%20-%202nd%20Squad.png"
+    },
+    {
+      "name": "突击骑兵 (set 1)",
+      "genre": "纵版射击",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "shocktro.zip",
+      "file_size": 19836839,
+      "sha256": "20aa27e97ffe489141b919957b24599eb9558e7988d6eb70cc202d62eabfdcd2",
+      "rom_name": "shocktro",
+      "file_name": "shocktro.zip",
+      "system": "NEOGEO",
+      "year": "1997",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/shocktro.zip",
+      "name_en": "Shock Troopers (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Shock%20Troopers%20(set%201).png"
+    },
+    {
+      "name": "机器人足球 (NGM-031)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "socbrawl.zip",
+      "file_size": 2948657,
+      "sha256": "121b381118aee7775d97831fefb3b6cff218ae32dc91cf54e1ff3d3d294fd4a0",
+      "rom_name": "socbrawl",
+      "file_name": "socbrawl.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/socbrawl.zip",
+      "name_en": "Soccer Brawl (NGM-031)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Soccer%20Brawl%20(NGH-031).png"
+    },
+    {
+      "name": "四国战机 2 / 音速战机 2",
+      "genre": "纵版射击",
+      "publisher": "Video System Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sonicwi2.zip",
+      "file_size": 5581941,
+      "sha256": "9e289d9276c959b824492289643be0fe2f63e3a20ac1a635db18e137fd5eb044",
+      "rom_name": "sonicwi2",
+      "file_name": "sonicwi2.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sonicwi2.zip",
+      "name_en": "Aero Fighters 2 / Sonic Wings 2",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aero%20Fighters%202%20_%20Sonic%20Wings%202.png"
+    },
+    {
+      "name": "四国战机 3 / 音速战机 3",
+      "genre": "纵版射击",
+      "publisher": "Video System Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "sonicwi3.zip",
+      "file_size": 9394919,
+      "sha256": "435d3a6e4e48f35deb32bf5ef36010780c6e53b0e7f6182885974cbeccea4e6f",
+      "rom_name": "sonicwi3",
+      "file_name": "sonicwi3.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sonicwi3.zip",
+      "name_en": "Aero Fighters 3 / Sonic Wings 3",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aero%20Fighters%203%20_%20Sonic%20Wings%203.png"
+    },
+    {
+      "name": "回旋球大师 / 强尼大冒险",
+      "genre": "平台动作",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "spinmast.zip",
+      "file_size": 4075175,
+      "sha256": "2f66ddd5fbf1f86aaa94cc8510a56a1f0a4e86cdc98626ca1c66b7b8a478adc3",
+      "rom_name": "spinmast",
+      "file_name": "spinmast.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/spinmast.zip",
+      "name_en": "Spin Master / Miracle Adventure",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Spin%20Master%20_%20Miracle%20Adventure.png"
+    },
+    {
+      "name": "超级伙伴 / 得点王",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ssideki.zip",
+      "file_size": 3274842,
+      "sha256": "1b7317bc3097030122a266d9ddb25a9599532988514f4a3377db5b86853eb19a",
+      "rom_name": "ssideki",
+      "file_name": "ssideki.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki.zip",
+      "name_en": "Super Sidekicks / Tokuten Ou",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%20_%20Tokuten%20Ou.png"
+    },
+    {
+      "name": "超级伙伴 2 - 世界锦标赛 / 得点王 2 - 真实对抗足球 (NGM-061)(NGH-061)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "ssideki2.zip",
+      "file_size": 6894021,
+      "sha256": "6fa9e6d699fe7d066a589fe454a9924f180f591993f47169445c3ab754b526d8",
+      "rom_name": "ssideki2",
+      "file_name": "ssideki2.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki2.zip",
+      "name_en": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%202%20-%20The%20World%20Championship%20_%20Tokuten%20Ou%202%20-%20Real%20Fight%20Football%20(NGM-061%20~%20NGH-061).png"
+    },
+    {
+      "name": "超级伙伴 3 - 荣耀之战 / 得点王 3 - 荣耀之挑战",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ssideki3.zip",
+      "file_size": 9935182,
+      "sha256": "b5d954555d575a476b45b17a049dd452129e2cf699a8a6352c62dbaa72a0e98f",
+      "rom_name": "ssideki3",
+      "file_name": "ssideki3.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki3.zip",
+      "name_en": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png"
+    },
+    {
+      "name": "终极十一人 - SNK 足球锦标赛 / 得点王 - 炎之自由人",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ssideki4.zip",
+      "file_size": 13744331,
+      "sha256": "3eb49fcb81a4122da3df91e51321a43c2b8046c66936fc9a7afd74e6c6c6fe95",
+      "rom_name": "ssideki4",
+      "file_name": "ssideki4.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki4.zip",
+      "name_en": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Ultimate%2011%20-%20The%20SNK%20Football%20Championship%20_%20Tokuten%20Ou%20-%20Honoo%20no%20Libero.png"
+    },
+    {
+      "name": "赛马冠军 - GI 完全制霸之道",
+      "genre": "其他",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "stakwin.zip",
+      "file_size": 3399845,
+      "sha256": "0f664dc30f4c63a98e9737b8eff631514d746e03d0263436aab037c24d0adb66",
+      "rom_name": "stakwin",
+      "file_name": "stakwin.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/stakwin.zip",
+      "name_en": "Stakes Winner / Stakes Winner - GI kinzen seiha e no michi",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Stakes%20Winner%20_%20Stakes%20Winner%20-%20GI%20Kinzen%20%20Seiha%20e%20no%20Michi.png"
+    },
+    {
+      "name": "赛马冠军 2",
+      "genre": "其他",
+      "publisher": "Saurus",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "stakwin2.zip",
+      "file_size": 10859432,
+      "sha256": "c2d92c1ed16b25a5f9eb3c5cdf8cea7a92bb581f87ec35dd371e509c05727780",
+      "rom_name": "stakwin2",
+      "file_name": "stakwin2.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/stakwin2.zip",
+      "name_en": "Stakes Winner 2",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Stakes%20Winner%202.png"
+    },
+    {
+      "name": "街头篮球 (DEM-004) (DEH-004)",
+      "genre": "体育",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "strhoop.zip",
+      "file_size": 4713931,
+      "sha256": "0913dfe621204ec05dd8574cdf90f0dfefb4b58b438f3617d030fba56f367124",
+      "rom_name": "strhoop",
+      "file_name": "strhoop.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/strhoop.zip",
+      "name_en": "Street Hoop / Street Slam / Dunk Dream (DEM-004) (DEH-004)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Hoop%20_%20Street%20Slam%20_%20Dunk%20Dream%20(DEM-004)%20(DEH-004).png"
+    },
+    {
+      "name": "谍报飞龙 (NGM-011)(NGH-011)",
+      "genre": "其他",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "superspy.zip",
+      "file_size": 3317592,
+      "sha256": "b9e53861a7fbb9df9df72baa47b1fd71ab00099474721a1b71895ea5a5477993",
+      "rom_name": "superspy",
+      "file_name": "superspy.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/superspy.zip",
+      "name_en": "The Super Spy (NGM-011)(NGH-011)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Super%20Spy%20(NGM-011)(NGH-011).png"
+    },
+    {
+      "name": "拳皇对街霸 - 混沌 (NGM-2690)(NGH-2690)",
+      "genre": "格斗",
+      "publisher": "SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "svc.zip",
+      "file_size": 83263423,
+      "sha256": "a64bde36a3586b12c829e82f24a0a1713eb038afc24b80dc18191dc86828022e",
+      "rom_name": "svc",
+      "file_name": "svc.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/svc.zip",
+      "name_en": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
+      "genre": "格斗",
+      "publisher": "SNK Playmore",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "svcpcb.zip",
+      "file_size": 91760348,
+      "sha256": "6c992626e08b1be7c52d12c3f3f0c8e23cebb7ef042f77d080d119d9ecce2525",
+      "rom_name": "svcpcb",
+      "file_name": "svcpcb.zip",
+      "system": "NEOGEO",
+      "year": "2003",
+      "dependencies": [],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/svcpcb.zip",
+      "name_en": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(Fully%20Decrypted).png"
+    },
+    {
+      "name": "顶尖猎人 - 罗迪和凯茜 (NGM-046)",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "tophuntr.zip",
+      "file_size": 7000309,
+      "sha256": "f77157132cf141555fe7e574656a040e7650b57f63a9fc7c723dd5f429122aa3",
+      "rom_name": "tophuntr",
+      "file_name": "tophuntr.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tophuntr.zip",
+      "name_en": "Top Hunter - Roddy & Cathy (NGM-046)",
+      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/tophuntr.png"
+    },
+    {
+      "name": "顶尖高尔夫 (NGM-003)(NGH-003)",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "tpgolf.zip",
+      "file_size": 3810028,
+      "sha256": "b98559a3760ff01047ddb9ec02a82f20e5d62730eea01ee3a53c08bd624cb740",
+      "rom_name": "tpgolf",
+      "file_name": "tpgolf.zip",
+      "system": "NEOGEO",
+      "year": "1990",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tpgolf.zip",
+      "name_en": "Top Player's Golf (NGM-003)(NGH-003)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Top%20Player's%20Golf%20(NGM-003)(NGH-003).png"
+    },
+    {
+      "name": "极速英豪 - 拉力赛车 (ALM-003)(ALH-003)",
+      "genre": "竞速",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "trally.zip",
+      "file_size": 2884702,
+      "sha256": "135490e7babb45043698ecda54b4a9cf4cc4f486846a1fafc5bb7fd2c729a8a5",
+      "rom_name": "trally",
+      "file_name": "trally.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/trally.zip",
+      "name_en": "Thrash Rally (ALM-003)(ALH-003)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Thrash%20Rally%20(ALM-003)(ALH-003).png"
+    },
+    {
+      "name": "新草坪大师赛 / 高尔夫锦标赛",
+      "genre": "体育",
+      "publisher": "Nazca",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "turfmast.zip",
+      "file_size": 9379881,
+      "sha256": "0951221736b00772dbf2f381a4dd21c25c8a5eeb8ce933c2198736665a9d719a",
+      "rom_name": "turfmast",
+      "file_name": "turfmast.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/turfmast.zip",
+      "name_en": "Neo Turf Masters / Big Tournament Golf",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png"
+    },
+    {
+      "name": "梦幻小妖精",
+      "genre": "纵版射击",
+      "publisher": "ADK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "twinspri.zip",
+      "file_size": 9118427,
+      "sha256": "d22e2c4a501a1dee7105851b3cc188cdff01060a953bf519ad5ac0e2c54e04e5",
+      "rom_name": "twinspri",
+      "file_name": "twinspri.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/twinspri.zip",
+      "name_en": "Twinkle Star Sprites",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Twinkle%20Star%20Sprites.png"
+    },
+    {
+      "name": "世界杯足球 96",
+      "genre": "体育",
+      "publisher": "Tecmo",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "tws96.zip",
+      "file_size": 6189662,
+      "sha256": "274caa0dbb07c075af233877b9cc266b9f4ba9f3864183e24114f47dfcb88d53",
+      "rom_name": "tws96",
+      "file_name": "tws96.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tws96.zip",
+      "name_en": "Tecmo World Soccer '96",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Tecmo%20World%20Soccer%20'96.png"
+    },
+    {
+      "name": "魔眼战机",
+      "genre": "射击",
+      "publisher": "Sammy / Aicom",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "viewpoin.zip",
+      "file_size": 4069111,
+      "sha256": "2896bc42067b537b82a1bff30cdef53c109be71c335bca0672e94465b03ff845",
+      "rom_name": "viewpoin",
+      "file_name": "viewpoin.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/viewpoin.zip",
+      "name_en": "Viewpoint",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Viewpoint%20(prototype).png"
+    },
+    {
+      "name": "水果机 (set 1)",
+      "genre": "街机",
+      "publisher": "Dyna / BreezaSoft",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "vliner.zip",
+      "file_size": 201373,
+      "sha256": "ee26909f9b090f14b64f1d314d2bcaff3b7a0ffa34ac99759d5900cb8c91683a",
+      "rom_name": "vliner",
+      "file_name": "vliner.zip",
+      "system": "NEOGEO",
+      "year": "2001",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/vliner.zip",
+      "name_en": "V-Liner (set 1)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/V-Liner%20(v0.6e).png"
+    },
+    {
+      "name": "火热火热 7",
+      "genre": "格斗",
+      "publisher": "Sunsoft",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "wakuwak7.zip",
+      "file_size": 13764434,
+      "sha256": "ed83dda82087f0bec4f3fc0fd80725220689265df27f30661a213f595e347d3b",
+      "rom_name": "wakuwak7",
+      "file_name": "wakuwak7.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wakuwak7.zip",
+      "name_en": "Waku Waku 7",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Waku%20Waku%207.png"
+    },
+    {
+      "name": "世界英雄 (ALM-005)",
+      "genre": "格斗",
+      "publisher": "Alpha Denshi Co.",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "wh1.zip",
+      "file_size": 4833212,
+      "sha256": "7099f028c51161c00c23f083fc73968cc8f9a14812bc039ee7785475acd023a8",
+      "rom_name": "wh1",
+      "file_name": "wh1.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh1.zip",
+      "name_en": "World Heroes (ALM-005)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%20(ALH-005).png"
+    },
+    {
+      "name": "世界英雄 2 (ALM-006)(ALH-006)",
+      "genre": "格斗",
+      "publisher": "ADK",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "wh2.zip",
+      "file_size": 9093956,
+      "sha256": "d405d3631a9b149b80e4282d0092d9d5c14e04ee82b5fe61e4fe931ebaf88565",
+      "rom_name": "wh2",
+      "file_name": "wh2.zip",
+      "system": "NEOGEO",
+      "year": "1993",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh2.zip",
+      "name_en": "World Heroes 2 (ALM-006)(ALH-006)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%202%20(ALH-006).png"
+    },
+    {
+      "name": "世界英雄 2 喷射版 (ADM-007)(ADH-007)",
+      "genre": "格斗",
+      "publisher": "ADK / SNK",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "wh2j.zip",
+      "file_size": 10957765,
+      "sha256": "1cd884819b7b9d379073dd72a37114065ac8eab76aed2ffb9a43d1ec10a71487",
+      "rom_name": "wh2j",
+      "file_name": "wh2j.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh2j.zip",
+      "name_en": "World Heroes 2 Jet (ADM-007)(ADH-007)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%202%20Jet%20(ADM-007)(ADH-007).png"
+    },
+    {
+      "name": "世界英雄 完美版",
+      "genre": "格斗",
+      "publisher": "ADK / SNK",
+      "tags": [
+        "NEOGEO",
+        "World"
+      ],
+      "download_url": "whp.zip",
+      "file_size": 15103505,
+      "sha256": "7ef0f6e1d51b50314f1c593724addaf54bb1d01ec3a349f9aa829338cd83b0a2",
+      "rom_name": "whp",
+      "file_name": "whp.zip",
+      "system": "NEOGEO",
+      "year": "1995",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/whp.zip",
+      "name_en": "World Heroes Perfect",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%20Perfect.png"
+    },
+    {
+      "name": "超级飞碟球",
+      "genre": "体育",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "wjammers.zip",
+      "file_size": 4060740,
+      "sha256": "29eb04824c61fa7807695e8ae831c882725212b604398362ed2854888e26e7b8",
+      "rom_name": "wjammers",
+      "file_name": "wjammers.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wjammers.zip",
+      "name_en": "Windjammers / Flying Power Disc",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Windjammers%20_%20Flying%20Power%20Disc.png"
+    },
+    {
+      "name": "刀锋战机",
+      "genre": "横版射击",
+      "publisher": "NMK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "zedblade.zip",
+      "file_size": 5189688,
+      "sha256": "849a4e43f9a831bb973265df19b2019c757606d906203a9eac479e268c7e3132",
+      "rom_name": "zedblade",
+      "file_name": "zedblade.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zedblade.zip",
+      "name_en": "Zed Blade / Operation Ragnarok",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zed%20Blade%20_%20Operation%20Ragnarok.png"
+    },
+    {
+      "name": "挤压史莱姆 (hack / bootleg)",
+      "genre": "益智",
+      "publisher": "hack / bootleg",
+      "tags": [
+        "NEOGEO",
+        "bootleg"
+      ],
+      "download_url": "zintrckb.zip",
+      "file_size": 2104535,
+      "sha256": "96691f440c270f4c09cf880cede10b44a71b5307cada945258950752572160f5",
+      "rom_name": "zintrckb",
+      "file_name": "zintrckb.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zintrckb.zip",
+      "name_en": "Zintrick / Oshidashi Zentrix (hack / bootleg)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zintrick%20_%20Oshidashi%20Zentrix%20(Neo%20CD%20conversion).png"
+    },
+    {
+      "name": "星星大战!",
+      "genre": "平台动作",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "zupapa.zip",
+      "file_size": 17948944,
+      "sha256": "d2db983a51f8f158a0f7628e21e34712503522ea8f72b58067b7f17bd2420b5b",
+      "rom_name": "zupapa",
+      "file_name": "zupapa.zip",
+      "system": "NEOGEO",
+      "year": "2001",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zupapa.zip",
+      "name_en": "Zupapa!",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zupapa!.png"
+    },
+    {
+      "name": "Bang 2 Busters (Prototype)",
+      "genre": "平台动作",
+      "publisher": "Visco",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "b2buster.zip",
+      "file_size": 1634542,
+      "sha256": "b374e2a4ca9e5e92462e625b2a1e9ef8085d30635aafe57effbcb3794acf533d",
+      "rom_name": "b2buster",
+      "file_name": "b2buster.zip",
+      "system": "NEOGEO",
+      "year": "2000",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/b2buster.zip",
+      "name_en": "Bang 2 Busters (Prototype)",
+      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/b2b.avif"
+    },
+    {
+      "name": "棒球之星 2",
+      "genre": "体育",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "bstars2.zip",
+      "file_size": 3700580,
+      "sha256": "cbfb016c977510d25fac93a92a751cee14e1054a0ccb4476bfb5ce7e4ebfe082",
+      "rom_name": "bstars2",
+      "file_name": "bstars2.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/bstars2.zip",
+      "name_en": "Baseball Stars 2",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Baseball%20Stars%202.png"
+    },
+    {
+      "name": "Neo No Panepon (beta)",
+      "genre": "益智",
+      "publisher": "blastar@gmx.net",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neonopon.zip",
+      "file_size": 23237,
+      "sha256": "ac9b25057d6639a6f69ec610ba77a8ce531a48ef0e20a5d96649ed498aca9c93",
+      "rom_name": "neonopon",
+      "file_name": "neonopon.zip",
+      "system": "NEOGEO",
+      "year": "????",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neonopon.zip",
+      "name_en": "Neo No Panepon (beta)",
+      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/neonopon.avif"
+    },
+    {
+      "name": "鬼精灵投球手 (prototype)",
+      "genre": "益智",
+      "publisher": "Data East Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ghostlop.zip",
+      "file_size": 3298675,
+      "sha256": "823c5a3813dd778ab458b3d1a40d00dc3a1e390598c38bea3e1368c1c59f1d79",
+      "rom_name": "ghostlop",
+      "file_name": "ghostlop.zip",
+      "system": "NEOGEO",
+      "year": "1996",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/ghostlop.zip",
+      "name_en": "Ghostlop (prototype)",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghostlop%20(prototype).png"
+    },
+    {
+      "name": "NeoGeo 2-Player Tetris",
+      "genre": "其他",
+      "publisher": "Crim/Stephen",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neotet.zip",
+      "file_size": 88250,
+      "sha256": "324506629ef3dfa09170175ccc2b8d1978ea4e04a5640c8720a889ae4eb657c6",
+      "rom_name": "neotet",
+      "file_name": "neotet.zip",
+      "system": "NEOGEO",
+      "year": "2013",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neotet.zip",
+      "name_en": "NeoGeo 2-Player Tetris",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/NeoGeo%202-Player%20Tetris%20(HB).png"
+    },
+    {
+      "name": "NGEM2K (beta 2006-01-18)",
+      "genre": "益智",
+      "publisher": "homebrew",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "ngem2k.zip",
+      "file_size": 6597,
+      "sha256": "8c7126c96940c1faa59e63051cefb9f49d90a85be3a1884fe353164719482f1a",
+      "rom_name": "ngem2k",
+      "file_name": "ngem2k.zip",
+      "system": "NEOGEO",
+      "year": "2006",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/ngem2k.zip",
+      "name_en": "NGEM2K (beta 2006-01-18)",
+      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/ngem2k.avif"
+    },
+    {
+      "name": "Neo Thunder",
+      "genre": "横版射击",
+      "publisher": "Sebastian Mihai",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "neothndr.zip",
+      "file_size": 323906,
+      "sha256": "547a8b440bb9839d060ab67909504a6503ef70b5e5816b49672e2061ebda0e01",
+      "rom_name": "neothndr",
+      "file_name": "neothndr.zip",
+      "system": "NEOGEO",
+      "year": "2012",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neothndr.zip",
+      "name_en": "Neo Thunder",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Thunder%20(HB).png"
+    },
+    {
+      "name": "迷探侦 Neo & Geo - 问答大搜查线 2 (NGM-042)(NGH-042)",
+      "genre": "街机",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO",
+        "USA"
+      ],
+      "download_url": "quizdai2.zip",
+      "file_size": 3506201,
+      "sha256": "4f94d0dd20f416b5fec31315ec98cce0e6003eec2470e7a14f212db27b72ca5f",
+      "rom_name": "quizdai2",
+      "file_name": "quizdai2.zip",
+      "system": "NEOGEO",
+      "year": "1992",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/quizdai2.zip",
+      "name_en": "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)",
+      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/quizdai2.png"
+    },
+    {
+      "name": "机甲神兵",
+      "genre": "动作过关",
+      "publisher": "SNK",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "roboarmy.zip",
+      "file_size": 3087404,
+      "sha256": "c8dda363accdc648c7c631bb3c9ae4e7347da934e35da77fbc2f1feef26a8ab2",
+      "rom_name": "roboarmy",
+      "file_name": "roboarmy.zip",
+      "system": "NEOGEO",
+      "year": "1991",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/roboarmy.zip",
+      "name_en": "Robo Army",
+      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Robo%20Army%20(NGM-032%20~%20NGH-032).png"
+    },
+    {
+      "name": "Treasure of the Carribean (Prototype)",
+      "genre": "平台动作",
+      "publisher": "FACE Corporation",
+      "tags": [
+        "NEOGEO"
+      ],
+      "download_url": "totcarib.zip",
+      "file_size": 6106255,
+      "sha256": "186ee0bb0b497a218bc60f70041312b2f79843c0bda307ec9040f6ea4d54bd36",
+      "rom_name": "totcarib",
+      "file_name": "totcarib.zip",
+      "system": "NEOGEO",
+      "year": "1994",
+      "dependencies": [
+        "neogeo.zip"
+      ],
+      "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/totcarib.zip",
+      "name_en": "Treasure of the Carribean (Prototype)",
+      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/totc.avif"
+    }
+  ],
+  "dependency_files": [
+    {
+      "file_name": "neogeo.zip",
+      "download_url": "neogeo.zip",
+      "file_size": 1440488,
+      "sha256": "716c4b769a78e05a07439b328a3d2c593bc9978bb40af13ec5c39e83f5d601ed",
+      "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neogeo.zip"
+    }
+  ],
+  "generated_at": "2026-10-29T11:08:46+08:00",
+  "name_translation": {
+    "source": "https://github.com/yingw/rom-name-cn",
+    "source_ref": "f1f3a28a7d92f6354913cc0398f22c220971f757",
+    "notice": "ROM-NAME-CN-NOTICE.md",
+    "usage": "非商业用途；请注明来源并保留上游版权声明。",
+    "matching": "Exact system + ROM shortname; original English version suffix retained.",
+    "matched": 152,
+    "unmatched": [
+      "cnbe",
+      "columnsn",
+      "fr2ch",
+      "lhcdb",
+      "ltorb1",
+      "mosyougi",
+      "neopong",
+      "ngfrog",
+      "poknight",
+      "svcpcb",
+      "b2buster",
+      "neonopon",
+      "neotet",
+      "ngem2k",
+      "neothndr",
+      "totcarib"
+    ]
+  }
+}
