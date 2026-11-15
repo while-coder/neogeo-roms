@@ -21,7 +21,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/2020bb.zip",
       "name_en": "2020 Super Baseball (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/2020%20Super%20Baseball%20(Neo%20CD%20conversion).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/00e04cdaeaf0f8262f49ec09.png"
     },
     {
       "name": "三回合较量 / 火线摔角 (NGM-043)(NGH-043)",
@@ -42,7 +42,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/3countb.zip",
       "name_en": "3 Count Bout / Fire Suplex (NGM-043)(NGH-043)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/3%20Count%20Bout%20_%20Fire%20Suplex%20(NGM-043)(NGH-043).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/b2ca65229f065ea7a50cd835.png"
     },
     {
       "name": "阿尔法任务 II - 最后的守护神 (NGM-007)(NGH-007)",
@@ -63,7 +63,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/alpham2.zip",
       "name_en": "Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Alpha%20Mission%20II%20_%20ASO%20II%20-%20Last%20Guardian%20(NGM-007)(NGH-007).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f60d19d0b228a9dfd1c2261d.png"
     },
     {
       "name": "勇者之击 (NGM-049)(NGH-049)",
@@ -84,7 +84,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/androdun.zip",
       "name_en": "Andro Dunos (NGM-049)(NGH-049)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Andro%20Dunos%20(NGM-049)(NGH-049).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5dac557775e403e6435321db.png"
     },
     {
       "name": "痛快 GANGAN 进行曲 (ADM-008)(ADH-008)",
@@ -105,7 +105,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aodk.zip",
       "name_en": "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aggressors%20of%20Dark%20Kombat%20_%20Tsuukai%20GANGAN%20Koushinkyoku%20(ADM-008)(ADH-008).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/93dc8fc62f63851d6e2954b1.png"
     },
     {
       "name": "龙虎之拳 (NGM-044)(NGH-044)",
@@ -126,7 +126,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof.zip",
       "name_en": "Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%20_%20Ryuuko%20no%20Ken%20(NGM-044)(NGH-044).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/10efcf2022155c091c49a7f5.png"
     },
     {
       "name": "龙虎之拳 2 (NGM-056)",
@@ -147,7 +147,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof2.zip",
       "name_en": "Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%202%20_%20Ryuuko%20no%20Ken%202%20(Enable%20hidden%20characters%20V2).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c4a2df0d032543484c8a65ab.png"
     },
     {
       "name": "龙虎之拳 3 - 斗士之路",
@@ -168,7 +168,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/aof3.zip",
       "name_en": "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Art%20of%20Fighting%203%20-%20The%20Path%20of%20the%20Warrior%20_%20Art%20of%20Fighting%20-%20Ryuuko%20no%20Ken%20Gaiden%20(Enable%20Hidden%20Characters%20V2).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/94887c16615721005962db9d.png"
     },
     {
       "name": "傻瓜殿下 麻将漫游记 (MOM-002)(MOH-002)",
@@ -189,7 +189,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bakatono.zip",
       "name_en": "Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Bakatonosama%20Mahjong%20Manyuuki%20(MOM-002)(MOH-002).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/aa5d2290008e6fa0a9a49d33.png"
     },
     {
       "name": "碰碰球",
@@ -210,7 +210,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bangbead.zip",
       "name_en": "Bang Bead",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Bang%20Bead%20(Prototype_).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9e1102006fdae293bd0dd0f8.png"
     },
     {
       "name": "蓝色之旅 / 拉吉少年 (ALM-001)(ALH-001)",
@@ -231,7 +231,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bjourney.zip",
       "name_en": "Blue's Journey / Raguy (ALM-001)(ALH-001)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Blue's%20Journey%20_%20Raguy%20(ALH-001).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/334c4f61b96d7c80d5349f81.png"
     },
     {
       "name": "闪亮之星",
@@ -252,7 +252,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/blazstar.zip",
       "name_en": "Blazing Star",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Blazing%20Star.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c36d4f3afb48b473db8f9dc4.png"
     },
     {
       "name": "爆烈人 - 末日英雄",
@@ -273,7 +273,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/breakers.zip",
       "name_en": "Breakers",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Breakers.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/cc94851c2259616d19095b07.png"
     },
     {
       "name": "爆烈人 复仇 - 末日英雄 加强版",
@@ -294,7 +294,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/breakrev.zip",
       "name_en": "Breakers Revenge",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Breakers%20Revenge.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e0e60845a175608c26a8ef7e.png"
     },
     {
       "name": "棒球之星专业版 (NGM-002)",
@@ -315,7 +315,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/bstars.zip",
       "name_en": "Baseball Stars Professional (NGM-002)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Baseball%20Stars%20Professional%20(NGH-002).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/722dffc4be615c0c36b5bd93.png"
     },
     {
       "name": "热血快打 (NGM-018)(NGH-018)",
@@ -336,7 +336,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/burningf.zip",
       "name_en": "Burning Fight (NGM-018)(NGH-018)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Burning%20Fight%20(NGH-018)(US).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/46e94159d75725e7ad3d4f70.png"
     },
     {
       "name": "Codename - Blut Engel (2006-01-19)",
@@ -357,7 +357,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/cnbe.zip",
       "name_en": "Codename - Blut Engel (2006-01-19)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Codename%20-%20Blut%20Engel%20(2006-01-19).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/66af478adbfe0c0d0d6b3905.png"
     },
     {
       "name": "Columns (Neo Geo)",
@@ -378,7 +378,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/columnsn.zip",
       "name_en": "Columns (Neo Geo)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Columns%20(World).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/baa7c90ec05bf1287517bee4.png"
     },
     {
       "name": "圣十字剑 (ALM-002)(ALH-002)",
@@ -399,7 +399,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/crsword.zip",
       "name_en": "Crossed Swords (ALM-002)(ALH-002)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Crossed%20Swords%20(ALM-002)(ALH-002).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/71d9ab2e3762ec04bf83ffa6.png"
     },
     {
       "name": "蕃茄超人",
@@ -420,7 +420,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ctomaday.zip",
       "name_en": "Captain Tomaday",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Captain%20Tomaday.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5e5289a1433ed1f7c936847e.png"
     },
     {
       "name": "战斗边缘 (NGM-010)",
@@ -441,7 +441,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/cyberlip.zip",
       "name_en": "Cyber-Lip (NGM-010)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Cyber-Lip%20(NGM-010).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/dd30d447f417500555d1ddb5.png"
     },
     {
       "name": "钻地先生",
@@ -462,7 +462,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/diggerma.zip",
       "name_en": "Digger Man",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Digger%20Man%20(prototype).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/91c39dd631164b27950b33d6.png"
     },
     {
       "name": "双截龙格斗 (Neo-Geo)",
@@ -483,7 +483,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/doubledr.zip",
       "name_en": "Double Dragon (Neo-Geo)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Double%20Dragon%20(World%20set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e32a79c89618dddab6b2d549.png"
     },
     {
       "name": "超人8号 (NGM-025)(NGH-025)",
@@ -504,7 +504,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/eightman.zip",
       "name_en": "Eight Man (NGM-025)(NGH-025)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Eight%20Man%20(NGM-025)(NGH-025).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6fefc84bbf870c7849350341.png"
     },
     {
       "name": "饿狼传说特别版 (set 1)(NGM-058)(NGH-058)",
@@ -525,7 +525,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfursp.zip",
       "name_en": "Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%20Special%20_%20Garou%20Densetsu%20Special%20(NGM-058%20~%20NGH-058%2C%20set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/a3196546ffaf6b3352cefb2a.png"
     },
     {
       "name": "饿狼传说 - 宿命之战 (NGM-033)(NGH-033)",
@@ -546,7 +546,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury1.zip",
       "name_en": "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%20-%20King%20of%20Fighters%20_%20Garou%20Densetsu%20-%20Shukumei%20no%20Tatakai%20(NGM-033%20~%20NGH-033).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c13ef68ecf9154228b83cdd6.png"
     },
     {
       "name": "饿狼传说 2 - 新的战斗 (NGM-047)(NGH-047)",
@@ -567,7 +567,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury2.zip",
       "name_en": "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%202%20_%20Garou%20Densetsu%202%20-%20Arata-naru%20Tatakai%20(NGM-047%20~%20NGH-047).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2790a487b9274ec1b0ebbf84.png"
     },
     {
       "name": "饿狼传说 3 - 通向最终胜利之路 (NGM-069)(NGH-069)",
@@ -588,7 +588,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fatfury3.zip",
       "name_en": "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fatal%20Fury%203%20-%20Road%20to%20the%20Final%20Victory%20_%20Garou%20Densetsu%203%20-%20Haruka-naru%20Tatakai%20(NGM-069%20~%20NGH-069).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/554f94f26fa63cca599c9361.png"
     },
     {
       "name": "疯狂橄榄球 (NGM-034)(NGH-034)",
@@ -609,7 +609,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fbfrenzy.zip",
       "name_en": "Football Frenzy (NGM-034)(NGH-034)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Football%20Frenzy%20(NGM-034)(NGH-034).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4058c5c05b7fc9de9e006b50.png"
     },
     {
       "name": "狂热格斗 (set 1)",
@@ -630,7 +630,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fightfev.zip",
       "name_en": "Fight Fever (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Fight%20Fever%20(set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c1b6665d4307225decb42dda.png"
     },
     {
       "name": "盾牌大战",
@@ -651,7 +651,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/flipshot.zip",
       "name_en": "Battle Flip Shot",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Battle%20Flip%20Shot.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4c25f45220b7ad71fff84c3b.png"
     },
     {
       "name": "Idol Mahjong - final romance 2 (CD to MVS Conversion)",
@@ -672,7 +672,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/fr2ch.zip",
       "name_en": "Idol Mahjong - final romance 2 (CD to MVS Conversion)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Idol%20Mahjong%20-%20final%20romance%202%20(Neo%20CD%20Conversion).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0e8a3486c61414cb98736ebd.png"
     },
     {
       "name": "银河快打 - 宇宙战士",
@@ -693,7 +693,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/galaxyfg.zip",
       "name_en": "Galaxy Fight - Universal Warriors",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Galaxy%20Fight%20-%20Universal%20Warriors.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/97eb2b15d444279cce37e4dc.png"
     },
     {
       "name": "武藏严流记",
@@ -715,7 +715,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ganryu.zip",
       "name_en": "Ganryu / Musashi Ganryuki",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ganryu%20_%20Musashi%20Ganryuki.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/54147f31515ee0e6287e7e7d.png"
     },
     {
       "name": "饿狼传说 - 狼之烙印 (NGM-2530)",
@@ -736,7 +736,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/garou.zip",
       "name_en": "Garou - Mark of the Wolves (NGM-2530)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Garou%20-%20Mark%20of%20the%20Wolves%20(Enable%20hidden%20characters).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6879017cfa100915fb9e08ee.png"
     },
     {
       "name": "射门!射门!射门!",
@@ -757,7 +757,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/goalx3.zip",
       "name_en": "Goal! Goal! Goal!",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Goal!%20Goal!%20Goal!.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/28c43f204585c0f0173dcd47.png"
     },
     {
       "name": "超人学园钢帝王",
@@ -778,7 +778,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gowcaizr.zip",
       "name_en": "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Voltage%20Fighter%20-%20Gowcaizer%20_%20Choujin%20Gakuen%20Gowcaizer.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6987d7d49498d62dd2cdfa7b.png"
     },
     {
       "name": "魔鬼飞行员 - 幽灵战区 (NGM-020)(NGH-020)",
@@ -799,7 +799,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gpilots.zip",
       "name_en": "Ghost Pilots (NGM-020)(NGH-020)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghost%20Pilots%20(NGH-020)(US).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/7313f95335d9ef769e5ba7c0.png"
     },
     {
       "name": "方块小人",
@@ -820,7 +820,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/gururin.zip",
       "name_en": "Gururin",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Gururin.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0cca53ba872b18a26838097d.png"
     },
     {
       "name": "超铁战机 (Prototype)",
@@ -841,7 +841,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ironclad.zip",
       "name_en": "Choutetsu Brikin'ger - Iron clad (Prototype)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Choutetsu%20Brikin'ger%20-%20Iron%20clad%20(Prototype).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/aa15422e18113fcd085ee412.png"
     },
     {
       "name": "刺激迷宫 / 终极电流急急棒",
@@ -862,7 +862,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/irrmaze.zip",
       "name_en": "The Irritating Maze / Ultra Denryu Iraira Bou",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Irritating%20Maze%20_%20Ultra%20Denryu%20Iraira%20Bou.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/841cc050390a86163a1d4a43.png"
     },
     {
       "name": "雀神传说 - 寻找麻将大师",
@@ -883,7 +883,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/janshin.zip",
       "name_en": "Jyanshin Densetsu - Quest of Jongmaster",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jyanshin%20Densetsu%20-%20Quest%20of%20Jongmaster.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/99d660bea0ac1b42b4d5af0f.png"
     },
     {
       "name": "赛马大奖赛 (set 1)",
@@ -904,7 +904,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/jockeygp.zip",
       "name_en": "Jockey Grand Prix (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jockey%20Grand%20Prix%20(set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9e980a5c345e80b5ec995f42.png"
     },
     {
       "name": "阳光方块 (NGM-021)(NGH-021)",
@@ -925,7 +925,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/joyjoy.zip",
       "name_en": "Puzzled / Joy Joy Kid (NGM-021)(NGH-021)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzled%20_%20Joy%20Joy%20Kid%20(NGM-021)(NGH-021).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/547fc502d3d260f8a54077fd.png"
     },
     {
       "name": "天外魔境真传 - 东方伊甸园",
@@ -946,7 +946,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kabukikl.zip",
       "name_en": "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Far%20East%20of%20Eden%20-%20Kabuki%20Klash%20_%20Tengai%20Makyou%20-%20Shin%20Den%20(Add%20hidden%20characters).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/cd0e7a299395f63bb0a71ce1.png"
     },
     {
       "name": "卡诺夫的复仇 / 格斗列传",
@@ -967,7 +967,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/karnovr.zip",
       "name_en": "Karnov's Revenge / Fighter's History Dynamite",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Karnov's%20Revenge%20_%20Fighter's%20History%20Dynamite.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/54c9a47106e200d50345ace3.png"
     },
     {
       "name": "风云默示录 2 - 超级组队战",
@@ -988,7 +988,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kizuna.zip",
       "name_en": "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Kizuna%20Encounter%20-%20Super%20Tag%20Battle%20_%20Fu'un%20Super%20Tag%20Battle.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/36f312ab4c48179c20842fa5.png"
     },
     {
       "name": "拳皇 2000 (NGM-2570) (NGH-2570)",
@@ -1009,7 +1009,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2000.zip",
       "name_en": "The King of Fighters 2000 (NGM-2570) (NGH-2570)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202000%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0e6592f853d7c444f5bf850e.png"
     },
     {
       "name": "拳皇 2001 (NGM-262?)",
@@ -1030,7 +1030,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2001.zip",
       "name_en": "The King of Fighters 2001 (NGM-262?)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202001%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/67eb1816a0628ac211a0e3f3.png"
     },
     {
       "name": "拳皇 2002 (NGM-2650)(NGH-2650)",
@@ -1051,7 +1051,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2002.zip",
       "name_en": "The King of Fighters 2002 (NGM-2650)(NGH-2650)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202002%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/fa1dc928ff96c57a50a09290.png"
     },
     {
       "name": "拳皇 2003 (NGM-2710)",
@@ -1072,7 +1072,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof2003.zip",
       "name_en": "The King of Fighters 2003 (NGM-2710)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%202003%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/bbae4d8917b6c9486c27a64f.png"
     },
     {
       "name": "拳皇94 (NGM-055)(NGH-055)",
@@ -1093,7 +1093,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof94.zip",
       "name_en": "The King of Fighters '94 (NGM-055)(NGH-055)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'94%20(NGM-055)(NGH-055).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e4f4f1944bde1b8a2783264a.png"
     },
     {
       "name": "拳皇95 (NGM-084)",
@@ -1114,7 +1114,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof95.zip",
       "name_en": "The King of Fighters '95 (NGM-084)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'95%20(Enable%20Hidden%20Characters%20V.%5B_%5D).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3fc702c7d1d2986507e26e26.png"
     },
     {
       "name": "拳皇96 (NGM-214)",
@@ -1135,7 +1135,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof96.zip",
       "name_en": "The King of Fighters '96 (NGM-214)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'96%20(NGH-214).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2e31b26d122b5f7567603865.png"
     },
     {
       "name": "拳皇97 (NGM-2320)",
@@ -1156,7 +1156,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof97.zip",
       "name_en": "The King of Fighters '97 (NGM-2320)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'97%20(Imitation%20Playstation%20final%20improved%20version%202016-10-29).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/1a5f4d6e44f1ec0359a2c546.png"
     },
     {
       "name": "拳皇98 - 梦战斗未结束 (NGM-2420)",
@@ -1177,7 +1177,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof98.zip",
       "name_en": "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'98%20-%20The%20Slugfest%20_%20King%20of%20Fighters%20'98%20-%20Dream%20Match%20Never%20Ends%20(Korean%20board%2C%20set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/fa532c6a373856e660ed264c.png"
     },
     {
       "name": "拳皇99 - 千年之战 (NGM-2510)",
@@ -1198,7 +1198,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kof99.zip",
       "name_en": "The King of Fighters '99 - Millennium Battle (NGM-2510)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20King%20of%20Fighters%20'99%20-%20Millennium%20Battle%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2fdf1630a6776bb3083f0649.png"
     },
     {
       "name": "怪兽之王 (set 1)",
@@ -1219,7 +1219,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kotm.zip",
       "name_en": "King of the Monsters (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/King%20of%20the%20Monsters%20(set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6250d123d863af7eb5182a14.png"
     },
     {
       "name": "怪兽之王 2 - 下一事件 (NGM-039)(NGH-039)",
@@ -1240,7 +1240,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/kotm2.zip",
       "name_en": "King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/King%20of%20the%20Monsters%202%20-%20The%20Next%20Thing%20(NGM-039)(NGH-039).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/b482956ff916b2272a945df3.png"
     },
     {
       "name": "幕末浪漫 月华剑士 (NGM-2340)",
@@ -1261,7 +1261,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lastblad.zip",
       "name_en": "The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Last%20Blade%20_%20Bakumatsu%20Roman%20-%20Gekka%20no%20Kenshi%20(NGH-2340).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5f15f8f2c1a573b4e6e08e4f.png"
     },
     {
       "name": "幕末浪漫第二幕 月华剑士 - 月中芳华 散落月下 (NGM-2430)(NGH-2430)",
@@ -1282,7 +1282,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lastbld2.zip",
       "name_en": "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Last%20Blade%202%20_%20Bakumatsu%20Roman%20-%20Dai%20Ni%20Maku%20Gekka%20no%20Kenshi%20(Enable%20Hidden%20Characters%20V4).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/d750a52a3e94afa0624ca895.png"
     },
     {
       "name": "联盟保龄球 (NGM-019)(NGH-019)",
@@ -1303,7 +1303,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lbowling.zip",
       "name_en": "League Bowling (NGM-019)(NGH-019)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/League%20Bowling%20(NGM-019)(NGH-019).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/a09f9fab59b48fd49c5baa5a.png"
     },
     {
       "name": "明日之丈传说",
@@ -1324,7 +1324,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/legendos.zip",
       "name_en": "Legend of Success Joe / Ashitano Joe Densetsu",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Legend%20of%20Success%20Joe%20_%20Ashita%20no%20Joe%20Densetsu.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5f3729612d86d9262f002599.png"
     },
     {
       "name": "Last Hope CD Beta (Neo CD conversion)",
@@ -1345,7 +1345,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lhcdb.zip",
       "name_en": "Last Hope CD Beta (Neo CD conversion)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/lhcdb.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e3444bc92c05f7860115fcdf.png"
     },
     {
       "name": "终极手段",
@@ -1366,7 +1366,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/lresort.zip",
       "name_en": "Last Resort",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Last%20Resort%20(prototype).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/01a7ba2f8d9566bb16057039.png"
     },
     {
       "name": "Jonas Indiana and the Lost Temple of RA (20050717)",
@@ -1387,7 +1387,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ltorb1.zip",
       "name_en": "Jonas Indiana and the Lost Temple of RA (20050717)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Jonas%20Indiana%20and%20the%20Lost%20Temple%20of%20RA%20(20050717).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/7c978058bfd7b9a4607de3ec.png"
     },
     {
       "name": "魔法堆球 II",
@@ -1408,7 +1408,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/magdrop2.zip",
       "name_en": "Magical Drop II",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magical%20Drop%20II.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e03db587e0cf3a80907717f5.png"
     },
     {
       "name": "魔法堆球 III",
@@ -1429,7 +1429,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/magdrop3.zip",
       "name_en": "Magical Drop III",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magical%20Drop%20III.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/b9a11d5e4745ac5f791056ba.png"
     },
     {
       "name": "幻魔大战 (NGM-005)",
@@ -1450,7 +1450,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/maglord.zip",
       "name_en": "Magician Lord (NGM-005)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Magician%20Lord%20(NGH-005).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f8d35ea11ad145ff959f296c.png"
     },
     {
       "name": "麻将狂列传 (NGM-004)(NGH-004)",
@@ -1471,7 +1471,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mahretsu.zip",
       "name_en": "Mahjong Kyo Retsuden (NGM-004)(NGH-004)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mahjong%20Kyo%20Retsuden%20(NGM-004)(NGH-004).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8ed77434fe3c2ca73488b6a4.png"
     },
     {
       "name": "小丸子问答",
@@ -1492,7 +1492,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/marukodq.zip",
       "name_en": "Chibi Marukochan Deluxe Quiz",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Chibi%20Marukochan%20Deluxe%20Quiz.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2c07a4ae4f7d4cd7617c5dba.png"
     },
     {
       "name": "新豪血寺一族 - 斗婚 (NGM-2660) (NGH-2660)",
@@ -1513,7 +1513,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/matrim.zip",
       "name_en": "Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Matrimelee%20_%20Shin%20Gouketsuji%20Ichizoku%20Toukon%20(Enable%20Hidden%20Characters%20V2).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6213fa263c92a90bc836b1b4.png"
     },
     {
       "name": "金钱益智对决",
@@ -1534,7 +1534,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/miexchng.zip",
       "name_en": "Money Puzzle Exchanger / Money Idol Exchanger",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Money%20Puzzle%20Exchanger%20_%20Money%20Idol%20Exchanger.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/524cbfe369b2c454d251c066.png"
     },
     {
       "name": "皆大欢喜! 骰子大会 (MOM-001)(MOH-001)",
@@ -1555,7 +1555,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/minasan.zip",
       "name_en": "Minasanno Okagesamadesu! Daisugorokutaikai (MOM-001)(MOH-001)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Minasan%20no%20Okagesamadesu!%20Dai%20Sugoroku%20Taikai%20(MOM-001%20~%20MOH-001).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/00cb7d76d8e471557874a3c4.png"
     },
     {
       "name": "Syougi No Tatsujin - Master of Syougi",
@@ -1576,7 +1576,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mosyougi.zip",
       "name_en": "Syougi No Tatsujin - Master of Syougi",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/mosyougi.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/cbade134eff370127d09463e.png"
     },
     {
       "name": "合金弹头 - 超级坦克-001",
@@ -1597,7 +1597,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug.zip",
       "name_en": "Metal Slug - Super Vehicle-001",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%20-%20Super%20Vehicle-001.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/ab83e182c87296350dac7b54.png"
     },
     {
       "name": "合金弹头 2 - 超级坦克-001/II (NGM-2410) (NGH-2410)",
@@ -1618,7 +1618,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug2.zip",
       "name_en": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%202%20-%20Super%20Vehicle-001_II%20(NGM-2410)%20(NGH-2410).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/56da013864aa76bb025ee220.png"
     },
     {
       "name": "合金弹头 3 (NGM-2560)",
@@ -1639,7 +1639,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug3.zip",
       "name_en": "Metal Slug 3 (NGM-2560)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%203%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/699600cabc1f81316acf5c22.png"
     },
     {
       "name": "合金弹头 4 (NGM-2630)",
@@ -1660,7 +1660,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug4.zip",
       "name_en": "Metal Slug 4 (NGM-2630)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%204%20(20th%20Anniversary).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/43198989769c86e3c38c0928.png"
     },
     {
       "name": "合金弹头 5 (NGM-2680)",
@@ -1681,7 +1681,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslug5.zip",
       "name_en": "Metal Slug 5 (NGM-2680)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%205%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5fda1dd3ed5646c88e1c8f01.png"
     },
     {
       "name": "合金弹头 X - 超级坦克-001 (NGM-2500)(NGH-2500)",
@@ -1702,7 +1702,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mslugx.zip",
       "name_en": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Metal%20Slug%20X%20-%20Super%20Vehicle-001%20(NGM-2500)(NGH-2500).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c2aaf000d7c41e3a63819e44.png"
     },
     {
       "name": "外星游龙 - 变异种族 (NGM-014)(NGH-014)",
@@ -1723,7 +1723,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/mutnat.zip",
       "name_en": "Mutation Nation (NGM-014)(NGH-014)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Mutation%20Nation%20(NGM-014)(NGH-014).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5e26175fe33fcb3442a68509.png"
     },
     {
       "name": "越战 1975 (NGM-001)(NGH-001)",
@@ -1744,7 +1744,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/nam1975.zip",
       "name_en": "NAM-1975 (NGM-001)(NGH-001)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/NAM-1975%20(NGM-001)(NGH-001).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/41920772e17994df9b3306ef.png"
     },
     {
       "name": "忍者大战 (NGM-009)",
@@ -1765,7 +1765,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ncombat.zip",
       "name_en": "Ninja Combat (NGM-009)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Combat%20(NGH-009).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9b9200a59770de250b10459e.png"
     },
     {
       "name": "忍者指令",
@@ -1786,7 +1786,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ncommand.zip",
       "name_en": "Ninja Commando",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Commando.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9f29064d1eea5cea3c5dd961.png"
     },
     {
       "name": "Neo 炸弹人",
@@ -1807,7 +1807,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neobombe.zip",
       "name_en": "Neo Bomberman",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Bomberman.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/202d0cea0cc9a86bf5112239.png"
     },
     {
       "name": "Neo-Geo 杯98 - 胜利之路",
@@ -1828,7 +1828,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neocup98.zip",
       "name_en": "Neo-Geo Cup '98 - The Road to the Victory",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo-Geo%20Cup%20'98%20-%20The%20Road%20to%20the%20Victory.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4ef4429170b2964d5c808ca2.png"
     },
     {
       "name": "Neo 越野漂移 - 新的技术",
@@ -1849,7 +1849,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neodrift.zip",
       "name_en": "Neo Drift Out - New Technology",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Drift%20Out%20-%20New%20Technology.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/660e5d6f122743fc4b5479e9.png"
     },
     {
       "name": "Neo 小丑先生",
@@ -1870,7 +1870,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neomrdo.zip",
       "name_en": "Neo Mr. Do!",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Mr.%20Do!.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/17602b0f06b279f83aaf171e.png"
     },
     {
       "name": "Neo Pong (ver 1.1)",
@@ -1891,7 +1891,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/neopong.zip",
       "name_en": "Neo Pong (ver 1.1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Pong%20(HB%2C%20v1.0).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2d6cc597d7c9077aa12cc7d7.png"
     },
     {
       "name": "Frog Feast (Neo Geo)",
@@ -1912,7 +1912,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ngfrog.zip",
       "name_en": "Frog Feast (Neo Geo)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Frog%20Feast%20(CPS-1).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/d600dc824a82986c915d222e.png"
     },
     {
       "name": "霸王忍法帖",
@@ -1933,7 +1933,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ninjamas.zip",
       "name_en": "Ninja Master's - haoh-ninpo-cho",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ninja%20Master's%20-%20Haoh-ninpo-cho%20(Plus).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5424d9c1ba32979a1f1573de.png"
     },
     {
       "name": "午夜噩梦",
@@ -1954,7 +1954,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/nitd.zip",
       "name_en": "Nightmare in the Dark",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Nightmare%20in%20the%20Dark%20(bootleg).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/96898dd17f2ace93a96bc813.png"
     },
     {
       "name": "跨越巅峰",
@@ -1975,7 +1975,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/overtop.zip",
       "name_en": "Over Top",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Over%20Top.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3a3a20e5ae3f8c651b09984c.png"
     },
     {
       "name": "炸弹人方块",
@@ -1996,7 +1996,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/panicbom.zip",
       "name_en": "Panic Bomber",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Panic%20Bomber.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/77ab099f8c78bbc5c4dd4c80.png"
     },
     {
       "name": "泡泡龙 2 / 再次爆裂移动 (Neo-Geo)",
@@ -2017,7 +2017,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pbobbl2n.zip",
       "name_en": "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20Bobble%202%20_%20Bust-A-Move%20Again%20(Neo-Geo).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8a9c054a2cd092f43c62de15.png"
     },
     {
       "name": "泡泡龙 / 爆裂移动 (Neo-Geo) (NGM-083)",
@@ -2038,7 +2038,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pbobblen.zip",
       "name_en": "Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20Bobble%20_%20Bust-A-Move%20(Neo-Geo)%20(NGM-083).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/5f270304baf33737375f1c9d.png"
     },
     {
       "name": "快乐射门 / 五人足球 (NGM-219)",
@@ -2059,7 +2059,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pgoal.zip",
       "name_en": "Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pleasure%20Goal%20_%20Futsal%20-%205%20on%205%20Mini%20Soccer%20(NGM-219).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/89886548f714726a444b4e6a.png"
     },
     {
       "name": "宠物方块",
@@ -2080,7 +2080,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pnyaa.zip",
       "name_en": "Pochi and Nyaa",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pochi%20and%20Nyaa%20(Ver%202.00).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/ed6d42186c263ee553004f85.png"
     },
     {
       "name": "Poker Night",
@@ -2101,7 +2101,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/poknight.zip",
       "name_en": "Poker Night",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Poker%20Night%20(HB).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/33672284907b9428dac63f82.png"
     },
     {
       "name": "暴击跳跳球",
@@ -2122,7 +2122,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/popbounc.zip",
       "name_en": "Pop 'n Bounce / Gapporin",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pop%20'n%20Bounce%20_%20Gapporin.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/707a40a223572d21f9e23082.png"
     },
     {
       "name": "原始岛 2",
@@ -2143,7 +2143,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/preisle2.zip",
       "name_en": "Prehistoric Isle 2",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Prehistoric%20Isle%202.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/fd33630484c41c52a7dbb6fc.png"
     },
     {
       "name": "力量排球 II (NGM-068)",
@@ -2164,7 +2164,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pspikes2.zip",
       "name_en": "Power Spikes II (NGM-068)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Power%20Spikes%20II%20(NGM-068).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/58d430c50cd34476d5599f4e.png"
     },
     {
       "name": "惑星战机",
@@ -2185,7 +2185,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/pulstar.zip",
       "name_en": "Pulstar",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Pulstar%20(alternate%20board).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2773a473a6e713eaea0618f9.png"
     },
     {
       "name": "益智气泡",
@@ -2206,7 +2206,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/puzzledp.zip",
       "name_en": "Puzzle De Pon!",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Puzzle%20De%20Pon!.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e1bea4d2ff4ca2051476b868.png"
     },
     {
       "name": "问答大搜查线 - 最后倒计时 (NGM-023)(NGH-023)",
@@ -2228,7 +2228,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/quizdais.zip",
       "name_en": "Quiz Daisousa Sen - The Last Count Down (NGM-023)(NGH-023)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20Daisousa%20Sen%20-%20The%20Last%20Count%20Down%20(Korean%20release).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f64431c6a4cfeefd796adb60.png"
     },
     {
       "name": "拳皇问答 (SAM-080)(SAH-080)",
@@ -2249,7 +2249,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/quizkof.zip",
       "name_en": "Quiz King of Fighters (SAM-080)(SAH-080)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Quiz%20King%20of%20Fighters%20(Korea).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4efaf80e7137a32ec408d298.png"
     },
     {
       "name": "神凰拳",
@@ -2270,7 +2270,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ragnagrd.zip",
       "name_en": "Ragnagard / Shin-Oh-Ken",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ragnagard%20_%20Shin-Oh-Ken.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6b01bf052bf339fd4b6af418.png"
     },
     {
       "name": "真饿狼传说 (NGM-095)(NGH-095)",
@@ -2291,7 +2291,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbff1.zip",
       "name_en": "Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%20_%20Real%20Bout%20Garou%20Densetsu%20(Korean%20release).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f2ca880562f20a122b4372d1.png"
     },
     {
       "name": "真饿狼传说 2 - 新的来者 (NGM-2400)",
@@ -2312,7 +2312,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbff2.zip",
       "name_en": "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%202%20-%20The%20Newcomers%20_%20Real%20Bout%20Garou%20Densetsu%202%20-%20The%20Newcomers%20(NGH-2400).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f654ae9e8741a107ffb26c0e.png"
     },
     {
       "name": "真饿狼传说特别版",
@@ -2333,7 +2333,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rbffspec.zip",
       "name_en": "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Real%20Bout%20Fatal%20Fury%20Special%20_%20Real%20Bout%20Garou%20Densetsu%20Special%20(Korean%20release).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8fbff3b277d5a01cd8441bbe.png"
     },
     {
       "name": "铁骑英雄 (NGM-006)(NGH-006)",
@@ -2354,7 +2354,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ridhero.zip",
       "name_en": "Riding Hero (NGM-006)(NGH-006)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Riding%20Hero%20(NGM-006)(NGH-006).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/e5873701959e76f35839cec1.png"
     },
     {
       "name": "龙吼 (NGM-264?)",
@@ -2375,7 +2375,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/rotd.zip",
       "name_en": "Rage of the Dragons (NGM-264?)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Rage%20of%20the%20Dragons%20(NGH-2640).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6edce2fb8b8047299a3f96d6.png"
     },
     {
       "name": "打击者 1945 加强版",
@@ -2396,7 +2396,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/s1945p.zip",
       "name_en": "Strikers 1945 Plus",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Strikers%201945%20Plus.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/48877129fb5cc9a52c71d4a1.png"
     },
     {
       "name": "侍魂 V 特别版 / 侍魂 零 特别版 (NGM-2720)",
@@ -2417,7 +2417,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsh5sp.zip",
       "name_en": "Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20V%20Special%20_%20Samurai%20Spirits%20Zero%20Special%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8bf72ace99583b5c7d641a4b.png"
     },
     {
       "name": "侍魂 I - 十二剑手 (NGM-045)",
@@ -2438,7 +2438,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho.zip",
       "name_en": "Samurai Shodown / Samurai Spirits (NGM-045)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20_%20Samurai%20Spirits%20(NGH-045).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0fcb0d74d27a93d9fc0447eb.png"
     },
     {
       "name": "侍魂 II / 真侍魂 - 霸王丸地狱变 (NGM-063)(NGH-063)",
@@ -2459,7 +2459,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho2.zip",
       "name_en": "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20II%20_%20Shin%20Samurai%20Spirits%20-%20Haohmaru%20Jigokuhen%20(NGM-063%20~%20NGH-063).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/97416d237e27ff81b07f6f42.png"
     },
     {
       "name": "侍魂 III - 斩红郎无双剑 (NGM-087)",
@@ -2480,7 +2480,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho3.zip",
       "name_en": "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20III%20_%20Samurai%20Spirits%20-%20Zankurou%20Musouken%20(NGH-087).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/1aa7a7ccd53418e94aaf3195.png"
     },
     {
       "name": "侍魂 IV - 天草降临 (NGM-222)(NGH-222)",
@@ -2502,7 +2502,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho4.zip",
       "name_en": "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20IV%20-%20Amakusa's%20Revenge%20_%20Samurai%20Spirits%20-%20Amakusa%20Kourin%20(NGM-222)(NGH-222).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/76f4681b1e8b1936e4f7a634.png"
     },
     {
       "name": "侍魂 V / 侍魂 零 (NGM-2700)",
@@ -2523,7 +2523,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/samsho5.zip",
       "name_en": "Samurai Shodown V / Samurai Spirits Zero (NGM-2700)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Samurai%20Shodown%20V%20_%20Samurai%20Spirits%20Zero%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/7058e76fc10439ca317b30c0.png"
     },
     {
       "name": "风云默示录 - 格斗创世",
@@ -2544,7 +2544,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/savagere.zip",
       "name_en": "Savage Reign / Fu'un Mokushiroku - kakutou sousei",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Savage%20Reign%20_%20Fu'un%20Mokushiroku%20-%20Kakutou%20Sousei.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/36616e3fc15c73c2c64c2cea.png"
     },
     {
       "name": "超级躲避球 / 国夫君热血斗球传说",
@@ -2565,7 +2565,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sdodgeb.zip",
       "name_en": "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Dodge%20Ball%20_%20Kunio%20no%20Nekketsu%20Toukyuu%20Densetsu.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/2d0b888309f7fe8367258c18.png"
     },
     {
       "name": "战国 / 战国传承 (NGM-017)(NGH-017)",
@@ -2586,7 +2586,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku.zip",
       "name_en": "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%20_%20Sengoku%20Denshou%20(NGH-017)(US).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c48759b5a5a167ac7e9008c3.png"
     },
     {
       "name": "战国 2 / 战国传承 2",
@@ -2607,7 +2607,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku2.zip",
       "name_en": "Sengoku 2 / Sengoku Denshou 2",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%202%20_%20Sengoku%20Denshou%202.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3d6906cdec8ee56b2aff4cfa.png"
     },
     {
       "name": "战国 3 / 战国传承 2001",
@@ -2628,7 +2628,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sengoku3.zip",
       "name_en": "Sengoku 3 / Sengoku Densho 2001",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Sengoku%203%20_%20Sengoku%20Densho%202001%20(Feng%20Shen%20Edition).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8058604b444ca81bb0e6dc95.png"
     },
     {
       "name": "突击骑兵 - 第二分队",
@@ -2649,7 +2649,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/shocktr2.zip",
       "name_en": "Shock Troopers - 2nd Squad",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Shock%20Troopers%20-%202nd%20Squad.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/78fa91b60fd1481d94cd2bd0.png"
     },
     {
       "name": "突击骑兵 (set 1)",
@@ -2670,7 +2670,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/shocktro.zip",
       "name_en": "Shock Troopers (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Shock%20Troopers%20(set%201).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/6150d3902d75eb5425fcc01b.png"
     },
     {
       "name": "机器人足球 (NGM-031)",
@@ -2691,7 +2691,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/socbrawl.zip",
       "name_en": "Soccer Brawl (NGM-031)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Soccer%20Brawl%20(NGH-031).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/91231de78e3f70df6a7daf05.png"
     },
     {
       "name": "四国战机 2 / 音速战机 2",
@@ -2712,7 +2712,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sonicwi2.zip",
       "name_en": "Aero Fighters 2 / Sonic Wings 2",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aero%20Fighters%202%20_%20Sonic%20Wings%202.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/d21233b987a6fbd6e88fb3b0.png"
     },
     {
       "name": "四国战机 3 / 音速战机 3",
@@ -2733,7 +2733,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/sonicwi3.zip",
       "name_en": "Aero Fighters 3 / Sonic Wings 3",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Aero%20Fighters%203%20_%20Sonic%20Wings%203.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/97d982c2e9fda7ffe3ea9179.png"
     },
     {
       "name": "回旋球大师 / 强尼大冒险",
@@ -2754,7 +2754,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/spinmast.zip",
       "name_en": "Spin Master / Miracle Adventure",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Spin%20Master%20_%20Miracle%20Adventure.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4f50708c9078eaebb94f7edd.png"
     },
     {
       "name": "超级伙伴 / 得点王",
@@ -2775,7 +2775,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki.zip",
       "name_en": "Super Sidekicks / Tokuten Ou",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%20_%20Tokuten%20Ou.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/dc3154bf29d8a8113e50d37c.png"
     },
     {
       "name": "超级伙伴 2 - 世界锦标赛 / 得点王 2 - 真实对抗足球 (NGM-061)(NGH-061)",
@@ -2797,7 +2797,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki2.zip",
       "name_en": "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%202%20-%20The%20World%20Championship%20_%20Tokuten%20Ou%202%20-%20Real%20Fight%20Football%20(NGM-061%20~%20NGH-061).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3a6fca2b7679c250184d47a1.png"
     },
     {
       "name": "超级伙伴 3 - 荣耀之战 / 得点王 3 - 荣耀之挑战",
@@ -2818,7 +2818,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki3.zip",
       "name_en": "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Super%20Sidekicks%203%20-%20The%20Next%20Glory%20_%20Tokuten%20Ou%203%20-%20eikou%20e%20no%20michi.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/09a748d3c7e6abe8abf8295c.png"
     },
     {
       "name": "终极十一人 - SNK 足球锦标赛 / 得点王 - 炎之自由人",
@@ -2839,7 +2839,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/ssideki4.zip",
       "name_en": "The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Ultimate%2011%20-%20The%20SNK%20Football%20Championship%20_%20Tokuten%20Ou%20-%20Honoo%20no%20Libero.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/d10367968ea7c74efaa213e2.png"
     },
     {
       "name": "赛马冠军 - GI 完全制霸之道",
@@ -2860,7 +2860,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/stakwin.zip",
       "name_en": "Stakes Winner / Stakes Winner - GI kinzen seiha e no michi",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Stakes%20Winner%20_%20Stakes%20Winner%20-%20GI%20Kinzen%20%20Seiha%20e%20no%20Michi.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/aecf5679507a74528d8c8d21.png"
     },
     {
       "name": "赛马冠军 2",
@@ -2881,7 +2881,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/stakwin2.zip",
       "name_en": "Stakes Winner 2",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Stakes%20Winner%202.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/48e6e1edc605c5209e15ab05.png"
     },
     {
       "name": "街头篮球 (DEM-004) (DEH-004)",
@@ -2902,7 +2902,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/strhoop.zip",
       "name_en": "Street Hoop / Street Slam / Dunk Dream (DEM-004) (DEH-004)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Street%20Hoop%20_%20Street%20Slam%20_%20Dunk%20Dream%20(DEM-004)%20(DEH-004).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/cf5d663d8ba0f3060abc8895.png"
     },
     {
       "name": "谍报飞龙 (NGM-011)(NGH-011)",
@@ -2923,7 +2923,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/superspy.zip",
       "name_en": "The Super Spy (NGM-011)(NGH-011)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/The%20Super%20Spy%20(NGM-011)(NGH-011).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/4bcf6705c86cf6341cb1c4c8.png"
     },
     {
       "name": "拳皇对街霸 - 混沌 (NGM-2690)(NGH-2690)",
@@ -2944,7 +2944,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/svc.zip",
       "name_en": "SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/35a77b11ab53860357d2bfcf.png"
     },
     {
       "name": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
@@ -2963,7 +2963,7 @@
       "dependencies": [],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/svcpcb.zip",
       "name_en": "SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/SNK%20vs.%20Capcom%20-%20SVC%20Chaos%20(Fully%20Decrypted).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/35a77b11ab53860357d2bfcf.png"
     },
     {
       "name": "顶尖猎人 - 罗迪和凯茜 (NGM-046)",
@@ -2984,7 +2984,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tophuntr.zip",
       "name_en": "Top Hunter - Roddy & Cathy (NGM-046)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/tophuntr.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/629e4e56bce561daa13f66a3.png"
     },
     {
       "name": "顶尖高尔夫 (NGM-003)(NGH-003)",
@@ -3005,7 +3005,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tpgolf.zip",
       "name_en": "Top Player's Golf (NGM-003)(NGH-003)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Top%20Player's%20Golf%20(NGM-003)(NGH-003).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/d0f6768847a52056cdddeea7.png"
     },
     {
       "name": "极速英豪 - 拉力赛车 (ALM-003)(ALH-003)",
@@ -3026,7 +3026,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/trally.zip",
       "name_en": "Thrash Rally (ALM-003)(ALH-003)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Thrash%20Rally%20(ALM-003)(ALH-003).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0ae9a6a0eb1a7add9551f8fe.png"
     },
     {
       "name": "新草坪大师赛 / 高尔夫锦标赛",
@@ -3047,7 +3047,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/turfmast.zip",
       "name_en": "Neo Turf Masters / Big Tournament Golf",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Turf%20Masters%20_%20Big%20Tournament%20Golf.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3ee37b86a60f92b5459c52a2.png"
     },
     {
       "name": "梦幻小妖精",
@@ -3068,7 +3068,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/twinspri.zip",
       "name_en": "Twinkle Star Sprites",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Twinkle%20Star%20Sprites.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9a83944cd16b2d99e713dfac.png"
     },
     {
       "name": "世界杯足球 96",
@@ -3090,7 +3090,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/tws96.zip",
       "name_en": "Tecmo World Soccer '96",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Tecmo%20World%20Soccer%20'96.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/07d4e17a73cdb4c48adfbeb5.png"
     },
     {
       "name": "魔眼战机",
@@ -3111,7 +3111,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/viewpoin.zip",
       "name_en": "Viewpoint",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Viewpoint%20(prototype).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c0225fd776aaea038993c2bd.png"
     },
     {
       "name": "水果机 (set 1)",
@@ -3132,7 +3132,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/vliner.zip",
       "name_en": "V-Liner (set 1)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/V-Liner%20(v0.6e).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/35993fa85bb48471faa5b29d.png"
     },
     {
       "name": "火热火热 7",
@@ -3153,7 +3153,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wakuwak7.zip",
       "name_en": "Waku Waku 7",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Waku%20Waku%207.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/8661551093bf8510eadd31d0.png"
     },
     {
       "name": "世界英雄 (ALM-005)",
@@ -3175,7 +3175,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh1.zip",
       "name_en": "World Heroes (ALM-005)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%20(ALH-005).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0ce6be8cc7e0b819389d850e.png"
     },
     {
       "name": "世界英雄 2 (ALM-006)(ALH-006)",
@@ -3197,7 +3197,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh2.zip",
       "name_en": "World Heroes 2 (ALM-006)(ALH-006)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%202%20(ALH-006).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9d092e2b5e44ed2a59aa10db.png"
     },
     {
       "name": "世界英雄 2 喷射版 (ADM-007)(ADH-007)",
@@ -3219,7 +3219,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wh2j.zip",
       "name_en": "World Heroes 2 Jet (ADM-007)(ADH-007)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%202%20Jet%20(ADM-007)(ADH-007).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3c471acc234a948d7d7d202c.png"
     },
     {
       "name": "世界英雄 完美版",
@@ -3241,7 +3241,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/whp.zip",
       "name_en": "World Heroes Perfect",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/World%20Heroes%20Perfect.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/850912e1b895fc9ac47ab100.png"
     },
     {
       "name": "超级飞碟球",
@@ -3262,7 +3262,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/wjammers.zip",
       "name_en": "Windjammers / Flying Power Disc",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Windjammers%20_%20Flying%20Power%20Disc.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0f42e6e19c40673dea639bdb.png"
     },
     {
       "name": "刀锋战机",
@@ -3283,7 +3283,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zedblade.zip",
       "name_en": "Zed Blade / Operation Ragnarok",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zed%20Blade%20_%20Operation%20Ragnarok.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/ace9c956870fff555afcc42a.png"
     },
     {
       "name": "挤压史莱姆 (hack / bootleg)",
@@ -3305,7 +3305,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zintrckb.zip",
       "name_en": "Zintrick / Oshidashi Zentrix (hack / bootleg)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zintrick%20_%20Oshidashi%20Zentrix%20(Neo%20CD%20conversion).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/38af2dd752cb6c7d3d66e796.png"
     },
     {
       "name": "星星大战!",
@@ -3326,7 +3326,7 @@
       ],
       "source_url": "https://archive.org/download/fba2012_cps123neogeo/FBA2012-NEOGEO/zupapa.zip",
       "name_en": "Zupapa!",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Zupapa!.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/b3f2f0a49ce4de7f2601e094.png"
     },
     {
       "name": "Bang 2 Busters (Prototype)",
@@ -3347,7 +3347,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/b2buster.zip",
       "name_en": "Bang 2 Busters (Prototype)",
-      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/b2b.avif"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/0baebfcbcc6c7c1deba60f53.avif"
     },
     {
       "name": "棒球之星 2",
@@ -3368,7 +3368,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/bstars2.zip",
       "name_en": "Baseball Stars 2",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Baseball%20Stars%202.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/b523e1c2fb51bb614d7cb5b2.png"
     },
     {
       "name": "Neo No Panepon (beta)",
@@ -3389,7 +3389,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neonopon.zip",
       "name_en": "Neo No Panepon (beta)",
-      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/neonopon.avif"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c6992d7556e8585378e62644.avif"
     },
     {
       "name": "鬼精灵投球手 (prototype)",
@@ -3410,7 +3410,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/ghostlop.zip",
       "name_en": "Ghostlop (prototype)",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Ghostlop%20(prototype).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/aabab3a17bc3fb2d0b9dc94f.png"
     },
     {
       "name": "NeoGeo 2-Player Tetris",
@@ -3431,7 +3431,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neotet.zip",
       "name_en": "NeoGeo 2-Player Tetris",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/NeoGeo%202-Player%20Tetris%20(HB).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/efa6b564e31104dc55fe7ff9.png"
     },
     {
       "name": "NGEM2K (beta 2006-01-18)",
@@ -3452,7 +3452,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/ngem2k.zip",
       "name_en": "NGEM2K (beta 2006-01-18)",
-      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/ngem2k.avif"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/3f28d1684a05da6f4ff2d058.avif"
     },
     {
       "name": "Neo Thunder",
@@ -3473,7 +3473,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/neothndr.zip",
       "name_en": "Neo Thunder",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Neo%20Thunder%20(HB).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/f00e9ceb8798ab3c1e05a695.png"
     },
     {
       "name": "迷探侦 Neo & Geo - 问答大搜查线 2 (NGM-042)(NGH-042)",
@@ -3495,7 +3495,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/quizdai2.zip",
       "name_en": "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)",
-      "screenshot_url": "https://adb.arcadeitalia.net/media/mame.current/ingames/quizdai2.png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/c3e86a8c4b6687d1fb9907b4.png"
     },
     {
       "name": "机甲神兵",
@@ -3516,7 +3516,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/roboarmy.zip",
       "name_en": "Robo Army",
-      "screenshot_url": "https://thumbnails.libretro.com/FBNeo%20-%20Arcade%20Games/Named_Snaps/Robo%20Army%20(NGM-032%20~%20NGH-032).png"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/1b3b2f6b8922922086d6694a.png"
     },
     {
       "name": "Treasure of the Carribean (Prototype)",
@@ -3537,7 +3537,7 @@
       ],
       "source_url": "https://archive.org/download/fba-arcade-v0.2.97.29/totcarib.zip",
       "name_en": "Treasure of the Carribean (Prototype)",
-      "screenshot_url": "https://www.planetemu.net/screenshots/FinalBurn%20Neo/totc.avif"
+      "screenshot_url": "https://raw.githubusercontent.com/while-coder/neogeo-roms/main/screenshots/9f28ae0481fac03d85142209.avif"
     }
   ],
   "dependency_files": [
